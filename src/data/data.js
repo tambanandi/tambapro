@@ -1,9 +1,9 @@
 const socialLinks = [
 ];
 const profileData = {
-  userName: "theBNC",
-  photoLink: "https://static-cdn.jtvnw.net/jtv_user_pictures/48de9039-28bc-4cc5-8fb1-4a44962ea2a4-profile_image-70x70.png",
-  desc: "twitch.tv/thebnc",
+  userName: "tambapro",
+  photoLink: "https://cdn.discordapp.com/attachments/1017925966691053660/1121490805379571913/Untitled_Artwork.png",
+  desc: "https://www.twitch.tv/tambapro",
 };
 
 const themeData = {
@@ -31,27 +31,11 @@ const themeData = {
 const linkData = [
   {
     id: 1,
-    link: "https://discord.gg/apgeR6zW",
-    name: "   Discord",
-    description: "asd",
+    link: "https://snatchcasinos.com/d73b090f9",
+    name: "Snatch",
+    description: "200% first depo bónusz, non-sticky + 100 FS a Dog House sloton (amiből minden nyeremény raw) max co a depohoz képest 10x. Első 4 befizetésedre van bónusz.",
     image:
-      "https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a07b53139aec4c1fd07771_discord-logo.png",
-  },
-  {
-    id: 2,
-    link: "https://shuffle.com?r=Go81dE1Obi",
-    name: "   Shuffle",
-    description: "A linken regisztrálással a következő bónuszokra vagy jogosult:\n100%-os befizetési bónusz 200$-ig 35x wagerrel\nNoha a befizetési bónusz nem a legjobb, a VIP szintek után járó reward megközeliti a top kaszinók által nyújtott rewardokat.\nCsak CRYPTO befizetés! (BTC,ETH,LTC,USDT-ERC20,USDC,TRX,MATIC)",
-    image:
-      "https://shuffle.com/og.png",
-  },
-  {
-    id: 3,
-    link: "https://shuffle.com?r=Go81dE1Obi",
-    name: "   Shuffle",
-    description: "A linken regisztrálással a következő bónuszokra vagy jogosult:\n100%-os befizetési bónusz 200$-ig 35x wagerrel\nNoha a befizetési bónusz nem a legjobb, a VIP szintek után járó reward megközeliti a top kaszinók által nyújtott rewardokat.\nCsak CRYPTO befizetés! (BTC,ETH,LTC,USDT-ERC20,USDC,TRX,MATIC)",
-    image:
-      "https://shuffle.com/og.png",
+      "https://www.reviewed-casinos.com/resources/assets/snatch-casino.png",
   },
 ];
 
