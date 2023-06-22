@@ -35,7 +35,7 @@ const linkData = [
     name: "Snatch",
     description: "200% first depo bónusz, non-sticky + 100 FS a Dog House sloton (amiből minden nyeremény raw) max co a depohoz képest 10x. Első 4 befizetésedre van bónusz.",
     image:
-      "https://www.reviewed-casinos.com/resources/assets/snatch-casino.png",
+      "https://slotcatalog.com/userfiles/image/casino/Snatch-Casino_logo.jpg",
   },
 ];
 
