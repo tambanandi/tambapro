@@ -1,7 +1,7 @@
 const socialLinks = [
 ];
 const profileData = {
-  userName: "tambapro",
+  userName: "TAMBAPRO",
   photoLink: "https://cdn.discordapp.com/attachments/1017925966691053660/1121490805379571913/Untitled_Artwork.png",
   desc: "https://www.twitch.tv/tambapro",
 };
@@ -32,10 +32,34 @@ const linkData = [
   {
     id: 1,
     link: "https://snatchcasinos.com/d73b090f9",
-    name: "Snatch",
+    name: "SNATCH",
     description: "200% first depo bónusz, non-sticky + 100 FS a Dog House sloton (amiből minden nyeremény raw) max co a depohoz képest 10x. Első 4 befizetésedre van bónusz.",
     image:
       "https://slotcatalog.com/userfiles/image/casino/Snatch-Casino_logo.jpg",
+  },
+   {
+    id: 2,
+    link: "https://go.24slots.partners/visit/?bta=35327&nci=5543",
+    name: "24SLOTS",
+    description: "PROMO CODE: TAMBA. 200%-os befizetési bónusz 500€-ig, 35x wager, max bet: 12€",
+    image:
+      "https://cdn.sanity.io/images/710sk6qy/production/a5b5e2a3012d4a8badb854cd5a06efe76d021a48-270x270.png",
+  },
+  {
+    id: 3,
+    link: "https://media.kongaffiliates.com/redirect.aspx?pid=4404&lpid=13&bid=1485",
+    name: "DOLLY CASINO",
+    description: "100%-os első befizetési bónusz akár 150 ezer Ft-ig (NON-STICKY a bónusz, 35x wager)",
+    image:
+      "https://cdn.sanity.io/images/710sk6qy/production/0b36c73fe31527ab1d6f17d43550acc4325009dc-270x270.png",
+  },
+  {
+    id: 4,
+    link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&bid=3838",
+    name: "LVBET",
+    description: "200%-os első befizetési bónusz 5 ezer Ft-ig (20x wager, 5 ezer Ft-ot érdemes befizetni, úgy használod ki a legjobban a bónuszt)",
+    image:
+      "https://sportfogadasioldalak-com.imgix.net/assets/local/Company/logos/LVbet_logo_transp.png",
   },
 ];
 
