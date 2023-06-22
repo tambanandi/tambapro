@@ -82,7 +82,7 @@ const CustomDiv = styled.div`
     margin-left: 10px;
     width: 50px;
     height: 50px;
-    border-radius: 100px;
+    border-radius: 50px;
     text-align: center;
   }
 `;
