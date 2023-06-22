@@ -59,7 +59,7 @@ const linkData = [
     name: "LVBET",
     description: "200%-os első befizetési bónusz 5 ezer Ft-ig (20x wager, 5 ezer Ft-ot érdemes befizetni, úgy használod ki a legjobban a bónuszt)",
     image:
-      "https://sportfogadasioldalak-com.imgix.net/assets/local/Company/logos/LVbet_logo_transp.png",
+      "https://kaszinok.online/image/cache/data/1-svg-casino-logos/lvbet-1200x630sh.svg",
   },
 ];
 
