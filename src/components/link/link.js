@@ -80,9 +80,9 @@ const CustomDiv = styled.div`
   }
   #image {
     margin-left: 10px;
-    width: 50px;
-    height: 50px;
-    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
     text-align: center;
   }
 `;
