@@ -106,6 +106,7 @@ const ParentWrapper = styled.div`
   width: 100vw;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   flex-direction: column;
+  height: 100vh;
 `;
