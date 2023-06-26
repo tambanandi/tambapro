@@ -6,7 +6,6 @@ const App = () => {
     <>
       <Header />
       <Link />
-      <Footer />
     </>
   );
 };
