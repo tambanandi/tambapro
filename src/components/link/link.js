@@ -21,7 +21,7 @@ const Link = () => {
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundPosition = "center";
     document.body.style.backgroundAttachment = "fixed";
-
+  }
   return (
     <>
       <Bounce>
