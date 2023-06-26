@@ -7,6 +7,20 @@ import themeContext from "../../state/context/themeContext";
 import "react-lazy-load-image-component/src/effects/blur.css";
 const Link = () => {
   const a = useContext(themeContext);
+  if (!a.darkMode) {
+    document.body.style.backgroundColor = themeData.dark.backgroundColor;
+    document.body.style.backgroundImage = themeData.dark.backgroundImage;
+    document.body.style.backgroundSize = 'cover';
+    document.body.style.backgroundRepeat = "no-repeat";
+    document.body.style.backgroundPosition = "center";
+    document.body.style.backgroundAttachment = "fixed";
+  } else {
+    document.body.style.backgroundColor = themeData.light.backgroundColor;
+    document.body.style.backgroundImage = themeData.light.backgroundImage;
+    document.body.style.backgroundSize = 'cover';
+    document.body.style.backgroundRepeat = "no-repeat";
+    document.body.style.backgroundPosition = "center";
+    document.body.style.backgroundAttachment = "fixed";
 
   return (
     <>
