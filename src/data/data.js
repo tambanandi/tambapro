@@ -57,7 +57,7 @@ const linkData = [
     id: 4,
     link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&bid=3838",
     name: "LVBET",
-    description: "200%-os első befizetési bónusz 5 ezer Ft-ig (20x wager, 5 ezer Ft-ot érdemes befizetni, úgy használod ki a legjobban a bónuszt)",
+    description: "200%-os első befizetési bónusz 5 ezer Ft-ig 20x wager (ADBLOCK nélkül nyitja meg a linket!)",
     image:
       "https://kaszinok.online/image/cache/data/1-svg-casino-logos/lvbet-1200x630sh.svg",
   },
