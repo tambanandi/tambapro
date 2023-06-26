@@ -10,11 +10,6 @@ import "react-lazy-load-image-component/src/effects/blur.css";
 const Header = () => {
   const a = useContext(themeContext);
   const { userName, photoLink, desc } = profileData;
-  if (!a.darkMode) {
-    document.body.style.backgroundColor = themeData.dark.backgroundColor;
-  } else {
-    document.body.style.backgroundColor = themeData.light.backgroundColor;
-  }
 
   return (
     <>
