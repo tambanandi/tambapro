@@ -8,7 +8,7 @@ const profileData = {
 
 const themeData = {
   light: {
-    backgroundImage: 'url("https://cdn.discordapp.com/attachments/1008065484844978199/1122912155264622592/plain-dark-black-wall-product-background.jpg")',
+    backgroundImage: 'url("https://cdn.discordapp.com/attachments/1008065484844978199/1122914231315075122/862206.jpg")',
     backgroundColor: "white",
     onHoverBackgroundColor: "#dfe6e9",
     cardBackgroundColor: "#ffffff",
@@ -19,7 +19,7 @@ const themeData = {
     CardtextColor: "#2d3436",
   },
   dark: {
-    backgroundImage: 'url("https://cdn.discordapp.com/attachments/1008065484844978199/1122912155264622592/plain-dark-black-wall-product-background.jpg")',
+    backgroundImage: 'url("https://cdn.discordapp.com/attachments/1008065484844978199/1122914231315075122/862206.jpg")',
     backgroundColor: "#000000",
     onHoverBackgroundColor: "#02040a",
     cardBackgroundColor: "#222222",
