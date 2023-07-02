@@ -6,6 +6,7 @@ import { LazyLoadImage } from "react-lazy-load-image-component";
 import DarkModeToggle from "react-dark-mode-toggle";
 import themeContext from "../../state/context/themeContext";
 import "react-lazy-load-image-component/src/effects/blur.css";
+import Livebutton from "../livebutton/Livebutton"
 
 const Header = () => {
   const a = useContext(themeContext);
@@ -14,6 +15,9 @@ const Header = () => {
   return (
     <>
       <DarkMode onChange={a.setDarkMode} checked={a.darkMode} size={50} />
+      <TwitchLogo>
+        <Livebutton/>
+      </TwitchLogo>
       <Zoom>
         <HeaderWrapper>
           <CustomImage effect="blur" src={photoLink} />
@@ -36,6 +40,18 @@ const DarkMode = styled(DarkModeToggle)`
   top: 0;
   right: 0;
   z-index: 1;
+`;
+
+const TwitchLogo = styled.div`
+  margin-top: 15px;
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  z-index: 1;
+  :hover {
+    transform: scale(1.05);
+    transition: all 0.2s ease-in-out;
+  }
 `;
 
 const HeaderWrapper = styled.div`
