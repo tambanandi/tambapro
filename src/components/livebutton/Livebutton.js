@@ -12,7 +12,7 @@ class Livebutton extends Component {
     }
   
     componentDidMount() {
-      fetch('https://l7ntqg6gfj.execute-api.eu-north-1.amazonaws.com/prod/get?twitchname=tambapro',{
+      fetch('/prod/get?twitchname=tambapro',{
         method:"GET",
         mode:"cors"
       })

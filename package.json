@@ -2,6 +2,7 @@
   "name": "linktree-clone",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://l7ntqg6gfj.execute-api.eu-north-1.amazonaws.com/",
   "dependencies": {
     "@testing-library/jest-dom": "5.16.1",
     "@testing-library/react": "11.2.7",
