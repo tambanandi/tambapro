@@ -1,9 +1,7 @@
 const socialLinks = [
 ];
 const profileData = {
-  userName: "TAMBAPRO",
   photoLink: "https://cdn.discordapp.com/attachments/1017925966691053660/1121490805379571913/Untitled_Artwork.png",
-  desc: "https://www.twitch.tv/tambapro",
 };
 
 const themeData = {
