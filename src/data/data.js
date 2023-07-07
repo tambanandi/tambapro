@@ -41,6 +41,14 @@ const linkData = [
   },
    {
     id: 2,
+    link: "https://vavadacompartner.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
+    name: "VAVADA",
+    description: "100% első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
+    image:
+      "https://www.deluxecasinobonus.net/images/Casinos/vavada/vavada-casino-logo.png",
+  },
+   {
+    id: 3,
     link: "https://go.24slots.partners/visit/?bta=35327&nci=5543",
     name: "24SLOTS",
     description: "PROMO CODE: TAMBA. 200%-os befizetési bónusz 500€-ig, 35x wager, max bet: 12€",
@@ -48,7 +56,7 @@ const linkData = [
       "https://cdn.sanity.io/images/710sk6qy/production/a5b5e2a3012d4a8badb854cd5a06efe76d021a48-270x270.png",
   },
   {
-    id: 3,
+    id: 4,
     link: "https://media.kongaffiliates.com/redirect.aspx?pid=4404&lpid=13&bid=1485",
     name: "DOLLY CASINO",
     description: "100%-os első befizetési bónusz akár 150 ezer Ft-ig (NON-STICKY a bónusz, 35x wager)",
@@ -56,20 +64,12 @@ const linkData = [
       "https://cdn.sanity.io/images/710sk6qy/production/0b36c73fe31527ab1d6f17d43550acc4325009dc-270x270.png",
   },
    {
-    id: 4,
+    id: 5,
     link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&bid=3838",
     name: "LVBET",
     description: "200%-os első befizetési bónusz (20x wager) 10 ezer Ft a bónusz maximális összege, tehát 5 ezer Ft befizetéssel maxolod ki a bónuszt (ADBLOCK nélkül nyitja meg a linket!)",
     image:
       "https://kaszinok.online/image/cache/data/1-svg-casino-logos/lvbet-1200x630sh.svg",
-  },
-   {
-    id: 5,
-    link: "https://vavadacompartner.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
-    name: "VAVADA",
-    description: "100% első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
-    image:
-      "https://www.deluxecasinobonus.net/images/Casinos/vavada/vavada-casino-logo.png",
   },
 ];
 
