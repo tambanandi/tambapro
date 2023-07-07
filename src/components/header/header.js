@@ -27,6 +27,11 @@ const Header = () => {
           <UserNameText props={a.darkMode ? themeData.light : themeData.dark}>
             {desc}
           </UserNameText>
+          <SocialIcons>
+            <a href="https://discord.gg/tyv3XudrYg"><img src="discord.png" width="50px" height="auto"></img></a>
+            <a href="https://www.instagram.com/tambapro1/"><img src="instagram.png" width="50px" height="auto"></img></a>
+            <a href="https://www.youtube.com/@tambapro9881"><img src="youtube.png" width="50px" height="auto"></img></a>
+          </SocialIcons>
         </HeaderWrapper>
       </Zoom>
     </>
@@ -72,4 +77,13 @@ const UserNameText = styled.h6`
   color: ${(props) => props.props.headerFontColor};
   font-weight: bold;
   text-align: center;
+`;
+
+const SocialIcons = styled.div`
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 3px;
+  gap: 10px;
 `;
