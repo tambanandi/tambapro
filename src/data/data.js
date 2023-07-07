@@ -1,6 +1,7 @@
 const socialLinks = [
 ];
 const profileData = {
+  userName: "tambapro",
   photoLink: "https://cdn.discordapp.com/attachments/1017925966691053660/1121490805379571913/Untitled_Artwork.png",
 };
 
