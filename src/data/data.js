@@ -46,21 +46,21 @@ const linkData = [
     image:
       "https://www.deluxecasinobonus.net/images/Casinos/vavada/vavada-casino-logo.png",
   },
-   {
+  {
     id: 3,
+    link: "https://record.nolimitpartners.com/_KvW4Zr-dEDeVAv0U_Fv2nWNd7ZgqdRLk/55/",
+    name: "CASINOTOGETHER",
+    description: "100%-os első befizetési bónusz akár 300 €-ig (NON-STICKY a bónusz, 35x wager)",
+    image:
+      "https://cdn.sanity.io/images/710sk6qy/production/0ebfc06bb24776a20e2121f2929ce3719067ddf3-524x266.png",
+  },
+   {
+    id: 4,
     link: "https://go.24slots.partners/visit/?bta=35327&nci=5543",
     name: "24SLOTS",
     description: "PROMO CODE: TAMBA. 200%-os befizetési bónusz 500€-ig, 35x wager, max bet: 12€",
     image:
       "https://cdn.sanity.io/images/710sk6qy/production/a5b5e2a3012d4a8badb854cd5a06efe76d021a48-270x270.png",
-  },
-  {
-    id: 4,
-    link: "https://media.kongaffiliates.com/redirect.aspx?pid=4404&lpid=13&bid=1485",
-    name: "DOLLY CASINO",
-    description: "100%-os első befizetési bónusz akár 150 ezer Ft-ig (NON-STICKY a bónusz, 35x wager)",
-    image:
-      "https://cdn.sanity.io/images/710sk6qy/production/0b36c73fe31527ab1d6f17d43550acc4325009dc-270x270.png",
   },
    {
     id: 5,
