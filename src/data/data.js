@@ -50,7 +50,7 @@ const linkData = [
     id: 3,
     link: "https://record.nolimitpartners.com/_KvW4Zr-dEDeVAv0U_Fv2nWNd7ZgqdRLk/55/",
     name: "CASINOTOGETHER",
-    description: "100%-os első befizetési bónusz akár 300 €-ig (NON-STICKY a bónusz, 40x wager, Maxbet: 5€)",
+    description: "100%-os első befizetési bónusz akár 300 €-ig (NON-STICKY a bónusz, 20x wager, Maxbet: 5€)",
     image:
       "https://cdn.sanity.io/images/710sk6qy/production/0ebfc06bb24776a20e2121f2929ce3719067ddf3-524x266.png",
   },
