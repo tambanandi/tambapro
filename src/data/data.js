@@ -52,7 +52,7 @@ const linkData = [
     name: "CASINOTOGETHER",
     description: "100%-os első befizetési bónusz akár 300 €-ig (NON-STICKY a bónusz, 20x wager, Maxbet: 5€)",
     image:
-      "https://cdn.sanity.io/images/710sk6qy/production/0ebfc06bb24776a20e2121f2929ce3719067ddf3-524x266.png",
+      "https://images.takeshape.io/122fed93-7cc0-4511-b506-b4b174692ff1/dev/370d817f-b816-419d-838f-495ba19d9c3c/OG-CasinoTogether.svg",
   },
    {
     id: 4,
