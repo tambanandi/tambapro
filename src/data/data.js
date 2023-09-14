@@ -44,7 +44,7 @@ const linkData = [
     name: "VAVADA",
     description: "100% első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
     image:
-      "https://www.deluxecasinobonus.net/images/Casinos/vavada/vavada-casino-logo.png",
+      "https://www.deluxecasinobonus.net/storage/deluxenet/983/64ccf7a718b3b_Vavada-Casino-banner-242435.jpg",
   },
   {
     id: 3,
