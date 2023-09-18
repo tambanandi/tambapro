@@ -40,7 +40,7 @@ const linkData = [
   },
    {
     id: 2,
-    link: "https://vavadacompartner.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
+    link: "https://vavadapartnecpa.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
     name: "VAVADA",
     description: "100% első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
     image:
