@@ -34,7 +34,7 @@ const linkData = [
     id: 1,
     link: "https://shuffle.com?r=XyaSY0PWoh",
     name: "SHUFFLE",
-    description: "INSTANT CO, NINCS KYC, STAKE COPY",
+    description: "instant CO, nincs KYC",
     image:
       "https://pbs.twimg.com/profile_images/1621655564840497152/PfQKf9OE_400x400.jpg",
   },
