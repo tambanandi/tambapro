@@ -38,21 +38,21 @@ const linkData = [
     image:
       "https://pbs.twimg.com/profile_images/1621655564840497152/PfQKf9OE_400x400.jpg",
   },
-  {
-    id: 2,
-    link: "https://snatchcasinos.com/d73b090f9",
-    name: "SNATCH",
-    description: "200% first depo bónusz, non-sticky, max co a depohoz képest 10x + 100 FS a Dog House sloton (40x wager 100 € max CO). Első 4 befizetésedre van bónusz.",
-    image:
-      "https://slotcatalog.com/userfiles/image/casino/Snatch-Casino_logo.jpg",
-  },
    {
-    id: 3,
+    id: 2,
     link: "https://vavadapartnecpa.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
     name: "VAVADA",
     description: "100% NON-STICKY első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
     image:
       "https://www.deluxecasinobonus.net/storage/deluxenet/983/64ccf7a718b3b_Vavada-Casino-banner-242435.jpg",
+  },
+  {
+    id: 3,
+    link: "https://snatchcasinos.com/d73b090f9",
+    name: "SNATCH",
+    description: "200% first depo bónusz, non-sticky, max co a depohoz képest 10x + 100 FS a Dog House sloton (40x wager 100 € max CO). Első 4 befizetésedre van bónusz.",
+    image:
+      "https://slotcatalog.com/userfiles/image/casino/Snatch-Casino_logo.jpg",
   },
   {
     id: 4,
