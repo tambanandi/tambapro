@@ -64,11 +64,11 @@ const linkData = [
   },
   {
     id: 5,
-    link: "https://record.nolimitpartners.com/_KvW4Zr-dEDeVAv0U_Fv2nWNd7ZgqdRLk/55/",
-    name: "CASINOTOGETHER",
-    description: "100%-os első befizetési bónusz akár 300 €-ig (NON-STICKY a bónusz, 20x wager, Maxbet: 5€)",
+    link: "https://media.wowpartners.com/redirect.aspx?pid=4055&lpid=16&bid=1485",
+    name: "SG CASINO",
+    description: "100%-os első befizetési bónusz akár  150k HUF-ig (NON-STICKY a bónusz, 35x wager, Maxbet: 5€)",
     image:
-      "https://www.casimoose.ca/img/logo300/casino-together.png",
+      "https://kaszinok.online/image/cache/data/1-svg-casino-logos/sg-logo-big-1200x630sh.svg",
   },
    {
     id: 6,
