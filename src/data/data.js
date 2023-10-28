@@ -38,8 +38,16 @@ const linkData = [
     image:
       "https://www.deluxecasinobonus.net/storage/deluxenet/983/64ccf7a718b3b_Vavada-Casino-banner-242435.jpg",
   },
-    {
+  {
     id: 2,
+    link: "https://bonafides.rocks/67464/1262?l=3751",
+    name: "WEISS",
+    description: "Első 4 befizetésre akár összesen 450% os bónusz + 120 FS. Wager: 60x (csak a befizetés összegére, igazából 30). Free spin max co = a depo összege. NON-STICKY, szóval le tudod mondani ha durranna az elején.",
+    image:
+      "https://media.discordapp.net/attachments/1008065484844978199/1167743386778878002/WS_Light.png?ex=654f3cc7&is=653cc7c7&hm=17c9daf57ab09c215b9759f5fe5e02ec919b08c5cfb33ec103de085e0bafecfe&=&width=1440&height=427",
+  },
+    {
+    id: 3,
     link: "https://shuffle.com?r=XyaSY0PWoh",
     name: "SHUFFLE",
     description: "instant CO, nincs KYC",
@@ -47,7 +55,7 @@ const linkData = [
       "https://pbs.twimg.com/profile_images/1621655564840497152/PfQKf9OE_400x400.jpg",
   },
   {
-    id: 3,
+    id: 4,
     link: "https://media.wowpartners.com/redirect.aspx?pid=4055&lpid=16&bid=1485",
     name: "SG CASINO",
     description: "100%-os első befizetési bónusz akár  150k HUF-ig (NON-STICKY a bónusz, 35x wager, Maxbet: 5€)",
@@ -55,7 +63,7 @@ const linkData = [
       "https://kaszinoworld.com/wp-content/uploads/2023/02/SG-casino.png",
   },
    {
-    id: 4,
+    id: 5,
     link: "https://myemp.servclick1move.com/?mid=75474_535033",
     name: "MYEMPIRE",
     description: "100% NON-STICKY első befizetési bónusz 150 ezer Ft-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
@@ -63,7 +71,7 @@ const linkData = [
       "https://www.casinowow.com/media/uploads/my-empire-casino-logo.png",
   },
    {
-    id: 5,
+    id: 6,
     link: "https://go.24slots.partners/visit/?bta=35327&nci=5543",
     name: "24SLOTS",
     description: "PROMO CODE: TAMBA. 200%-os befizetési bónusz 500€-ig, 35x wager, max bet: 12€",
@@ -71,7 +79,7 @@ const linkData = [
       "https://cdn.sanity.io/images/710sk6qy/production/a5b5e2a3012d4a8badb854cd5a06efe76d021a48-270x270.png",
   },
    {
-    id: 6,
+    id: 7,
     link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&bid=3838",
     name: "LVBET",
     description: "200%-os első befizetési bónusz (20x wager) 10 ezer Ft a bónusz maximális összege, tehát 5 ezer Ft befizetéssel maxolod ki a bónuszt (ADBLOCK nélkül nyitja meg a linket!)",
