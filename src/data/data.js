@@ -74,7 +74,7 @@ const linkData = [
     id: 6,
     link: "https://m.lemon.partners/Redirect.aspx?mid=71&sid=373&cid=&pid=&affid=79",
     name: "LEMON CASINO",
-    description: "",
+    description: "20 Befizetés Nélküli Pörgetés + 120.000 Ft Bónusz + 100 Ingyenes Pörgetés",
     image:
       "https://www.deluxecasinobonus.net/storage/deluxenet/758/64cb8ef90aceb_lemon-casino-logo.jpg",
   },
