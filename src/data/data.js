@@ -70,16 +70,8 @@ const linkData = [
     image:
       "https://www.casinowow.com/media/uploads/my-empire-casino-logo.png",
   },
-    {
-    id: 6,
-    link: "https://m.lemon.partners/Redirect.aspx?mid=71&sid=373&cid=&pid=&affid=79",
-    name: "LEMON CASINO",
-    description: "20 Befizetés Nélküli Pörgetés + 120.000 Ft Bónusz + 100 Ingyenes Pörgetés",
-    image:
-      "https://www.deluxecasinobonus.net/storage/deluxenet/758/64cb8ef90aceb_lemon-casino-logo.jpg",
-  },
    {
-    id: 7,
+    id: 6,
     link: "https://go.24slots.partners/visit/?bta=35327&nci=5543",
     name: "24SLOTS",
     description: "PROMO CODE: TAMBA. 200%-os befizetési bónusz 500€-ig, 35x wager, max bet: 12€",
@@ -87,7 +79,7 @@ const linkData = [
       "https://cdn.sanity.io/images/710sk6qy/production/a5b5e2a3012d4a8badb854cd5a06efe76d021a48-270x270.png",
   },
    {
-    id: 8,
+    id: 7,
     link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&bid=3838",
     name: "LVBET",
     description: "200%-os első befizetési bónusz (20x wager) 10 ezer Ft a bónusz maximális összege, tehát 5 ezer Ft befizetéssel maxolod ki a bónuszt (ADBLOCK nélkül nyitja meg a linket!)",
