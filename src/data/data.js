@@ -30,21 +30,21 @@ const themeData = {
   },
 };
 const linkData = [
-   {
-    id: 1,
-    link: "https://vavadapartnecpa.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
-    name: "VAVADA",
-    description: "100% NON-STICKY első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
-    image:
-      "https://www.deluxecasinobonus.net/storage/deluxenet/983/64ccf7a718b3b_Vavada-Casino-banner-242435.jpg",
-  },
   {
-    id: 2,
+    id: 1,
     link: "https://bonafides.rocks/67464/1262?l=3751",
     name: "WEISS",
     description: "Első 4 befizetésre akár összesen 450% os bónusz + 120 FS. Wager: 60x (csak a befizetés összegére, igazából 30). Free spin max co = a depo összege.",
     image:
       "https://media.discordapp.net/attachments/1008065484844978199/1167743386778878002/WS_Light.png?ex=654f3cc7&is=653cc7c7&hm=17c9daf57ab09c215b9759f5fe5e02ec919b08c5cfb33ec103de085e0bafecfe&=&width=1440&height=427",
+  },
+   {
+    id: 2,
+    link: "https://vavadapartnecpa.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
+    name: "VAVADA",
+    description: "100% NON-STICKY első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
+    image:
+      "https://www.deluxecasinobonus.net/storage/deluxenet/983/64ccf7a718b3b_Vavada-Casino-banner-242435.jpg",
   },
     {
     id: 3,
