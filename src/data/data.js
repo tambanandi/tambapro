@@ -60,7 +60,7 @@ const linkData = [
     name: "SHUFFLE",
     description: "instant CO, nincs KYC",
     image:
-      "https://pbs.twimg.com/profile_images/1621655564840497152/PfQKf9OE_400x400.jpg",
+      "https://skinlords.com/wp-content/uploads/2023/09/shuffle-com-site-logo.png",
   },
   {
     id: 5,
