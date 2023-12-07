@@ -47,20 +47,20 @@ const linkData = [
       "https://sportfogadasioldalak-com.imgix.net/assets/local/Company/logos/20bet-logo-transparent.png",
   },
    {
-    id: 4,
+    id: 3,
     link: "https://vavadapartnecpa.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
     name: "VAVADA",
     description: "100% NON-STICKY első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
     image:
       "https://www.deluxecasinobonus.net/storage/deluxenet/983/64ccf7a718b3b_Vavada-Casino-banner-242435.jpg",
   },
-    {
-    id: 6,
-    link: "https://shuffle.com?r=XyaSY0PWoh",
-    name: "SHUFFLE",
-    description: "instant CO, nincs KYC",
+  {
+    id: 4,
+    link: "https://myemp.servclick1move.com/?mid=75474_535033",
+    name: "MYEMPIRE",
+    description: "100% NON-STICKY első befizetési bónusz 150 ezer Ft-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
     image:
-      "https://skinlords.com/wp-content/uploads/2023/09/shuffle-com-site-logo.png",
+      "https://www.casinowow.com/media/uploads/my-empire-casino-logo.png",
   },
   {
     id: 5,
@@ -70,13 +70,13 @@ const linkData = [
     image:
       "https://kaszinoworld.com/wp-content/uploads/2023/02/SG-casino.png",
   },
-   {
-    id: 3,
-    link: "https://myemp.servclick1move.com/?mid=75474_535033",
-    name: "MYEMPIRE",
-    description: "100% NON-STICKY első befizetési bónusz 150 ezer Ft-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
+    {
+    id: 6,
+    link: "https://shuffle.com?r=XyaSY0PWoh",
+    name: "SHUFFLE",
+    description: "instant CO, nincs KYC",
     image:
-      "https://www.casinowow.com/media/uploads/my-empire-casino-logo.png",
+      "https://skinlords.com/wp-content/uploads/2023/09/shuffle-com-site-logo.png",
   },
    {
     id: 7,
