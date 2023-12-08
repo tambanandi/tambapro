@@ -42,7 +42,7 @@ const linkData = [
     id: 2,
     link: "https://media.toxtren.com/redirect.aspx?pid=275187&bid=1971&redirectURL=https://20media.world",
     name: "20BET",
-    description: "100% befizetési bónusz 40 ezer Ft-ig. Bónuszkód: tambapro",
+    description: "100% NON-STICKY befizetési bónusz 40 ezer Ft-ig. Bónuszkód: tambapro (Ha kriptoval fizetsz be az oldalra a pontos összeget kell küldeni, vagy nem fog megérkezni, ha nem érkezett meg a support manuálisan hozzá tudja adni az accountodhoz)",
     image:
       "https://sportfogadasioldalak-com.imgix.net/assets/local/Company/logos/20bet-logo-transparent.png",
   },
