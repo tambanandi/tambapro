@@ -34,7 +34,7 @@ const linkData = [
     id: 1,
     link: "https://bonafides.rocks/67464/1262?l=3751",
     name: "WEISS",
-    description: "200% BÓNUSZ non-sticky, 60x WAGER CSAK A BÓNUSZON",
+    description: "Első 4 befizetésre akár összesen 450% os bónusz + 120 FS. Wager: 60x (csak a befizetés összegére, igazából 30). Free spin max co = a depo összege.200% BÓNUSZ non-sticky, 60x WAGER CSAK A BÓNUSZON",
     image:
       "https://media.discordapp.net/attachments/1008065484844978199/1167743386778878002/WS_Light.png?ex=654f3cc7&is=653cc7c7&hm=17c9daf57ab09c215b9759f5fe5e02ec919b08c5cfb33ec103de085e0bafecfe&=&width=1440&height=427",
   },
@@ -42,7 +42,7 @@ const linkData = [
     id: 2,
     link: "https://fairspin-h.click/67464/1240?l=2",
     name: "FAIRSPIN",
-    description: "Első 4 befizetésre akár összesen 450% os bónusz + 120 FS. Wager: 60x (csak a befizetés összegére, igazából 30). Free spin max co = a depo összege.",
+    description: "200% BÓNUSZ non-sticky, 60x WAGER CSAK A BÓNUSZON",
     image:
       "https://cdn.discordapp.com/attachments/1008065484844978199/1184802898308239360/300300-1.png?ex=658d4caf&is=657ad7af&hm=1d408529556c4cfb0e57e0dfc6a3818043245f8977c4ec111f5c077a7fb7fb6b&",
   },
