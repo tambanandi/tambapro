@@ -44,7 +44,7 @@ const linkData = [
     name: "WEISS",
     description: "szarok a befizu bónuszok, DE A WEFT TOKEN ÖRÖKÉLET",
     image:
-      "https://media.discordapp.net/attachments/1008065484844978199/1167743386778878002/WS_Light.png?ex=654f3cc7&is=653cc7c7&hm=17c9daf57ab09c215b9759f5fe5e02ec919b08c5cfb33ec103de085e0bafecfe&=&width=1440&height=427",
+      "https://cdn.discordapp.com/attachments/1059866853943554138/1185333525319254026/weiss-casino-logo.webp?ex=658f3ade&is=657cc5de&hm=f5a5462fcc89631c160a6464b7614dd7acc7f17ce4c7a9a6e4701edb07d119a4&",
   },
   {
     id: 3,
