@@ -68,7 +68,7 @@ const linkData = [
     name: "VAVADA",
     description: "100% NON-STICKY első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
     image:
-      "https://cdn.discordapp.com/attachments/1059866853943554138/1185335090629328977/letoltes.png?ex=658f3c54&is=657cc754&hm=6cf75af7b8e336e93e2a56a2a3952fc06a4838413890f6f9b162fe8d82803a80&",
+      "https://cdn.discordapp.com/attachments/1059866853943554138/1185335628053889094/Vavada_logo.jpg?ex=658f3cd4&is=657cc7d4&hm=4169aaa82f7fa677e0751f0857100555336a3c394d2b8d3bb39d989d8e2ffb2c&",
   },
   {
     id: 6,
