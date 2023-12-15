@@ -52,7 +52,7 @@ const linkData = [
     name: "FAIRSPIN",
     description: "200% BÓNUSZ non-sticky, 60x WAGER CSAK A BÓNUSZON",
     image:
-      "https://cdn.discordapp.com/attachments/1008065484844978199/1184802898308239360/300300-1.png?ex=658d4caf&is=657ad7af&hm=1d408529556c4cfb0e57e0dfc6a3818043245f8977c4ec111f5c077a7fb7fb6b&",
+      "https://cdn.discordapp.com/attachments/1059866853943554138/1185333189749784756/o-graph-image.webp?ex=658f3a8e&is=657cc58e&hm=7493a22f95bff24b92af42028090301e331d96e537a506204b02eb4d15bfcf41&",
   },
    {
     id: 4,
