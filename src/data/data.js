@@ -60,7 +60,7 @@ const linkData = [
     name: "20BET",
     description: "100% NON-STICKY befizetési bónusz 40 ezer Ft-ig. 20x wager a teljes balancera. Bónuszkód: tambapro",
     image:
-      "https://sportfogadasioldalak-com.imgix.net/assets/local/Company/logos/20bet-logo-transparent.png",
+      "https://cdn.discordapp.com/attachments/1059866853943554138/1185335417021665420/20bet_logo_250x250.png?ex=658f3ca1&is=657cc7a1&hm=5a0bb5c25f5c5cd35d21fee5c8fe0eb2ee805705e23eaa3c1458d38b46e45330&",
   },
    {
     id: 5,
