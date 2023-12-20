@@ -46,21 +46,21 @@ const linkData = [
     image:
       "https://cdn.discordapp.com/attachments/1059866853943554138/1185333525319254026/weiss-casino-logo.webp?ex=658f3ade&is=657cc5de&hm=f5a5462fcc89631c160a6464b7614dd7acc7f17ce4c7a9a6e4701edb07d119a4&",
   },
-  {
+     {
     id: 3,
-    link: "https://fairspin-h.click/67464/1240?l=2",
-    name: "FAIRSPIN",
-    description: "200% BÓNUSZ non-sticky, 60x WAGER CSAK A BÓNUSZON",
-    image:
-      "https://cdn.discordapp.com/attachments/1059866853943554138/1185333189749784756/o-graph-image.webp?ex=658f3a8e&is=657cc58e&hm=7493a22f95bff24b92af42028090301e331d96e537a506204b02eb4d15bfcf41&",
-  },
-   {
-    id: 4,
     link: "https://media.toxtren.com/redirect.aspx?pid=275187&bid=1971&redirectURL=https://20media.world",
     name: "20BET",
     description: "100% NON-STICKY befizetési bónusz 40 ezer Ft-ig. 20x wager a teljes balancera. Bónuszkód: tambapro",
     image:
       "https://cdn.discordapp.com/attachments/1059866853943554138/1185336374308642897/1659424839_20bet.png?ex=658f3d86&is=657cc886&hm=aefec319570b13f944e1d9a108f49d8bb4db003cfe2a08145542f55ae4e748c9&",
+  },
+  {
+    id: 4,
+    link: "https://fairspin-h.click/67464/1240?l=2",
+    name: "FAIRSPIN",
+    description: "200% BÓNUSZ non-sticky, 60x WAGER CSAK A BÓNUSZON",
+    image:
+      "https://cdn.discordapp.com/attachments/1059866853943554138/1185333189749784756/o-graph-image.webp?ex=658f3a8e&is=657cc58e&hm=7493a22f95bff24b92af42028090301e331d96e537a506204b02eb4d15bfcf41&",
   },
    {
     id: 5,
