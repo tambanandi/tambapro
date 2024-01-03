@@ -78,24 +78,8 @@ const linkData = [
     image:
       "https://cdn.discordapp.com/attachments/1059866853943554138/1185336559109681162/64ccf7a718b3b_Vavada-Casino-banner-242435.jpg?ex=658f3db2&is=657cc8b2&hm=d7b7e9273a80bc2fcdf33bdd3fdac79a1d827e68c251881b7a9c5854b51ef48c&",
   },
-  {
-    id: 7,
-    link: "https://myemp.servclick1move.com/?mid=75474_535033",
-    name: "MYEMPIRE",
-    description: "100% NON-STICKY első befizetési bónusz 150 ezer Ft-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
-    image:
-      "https://www.casinowow.com/media/uploads/my-empire-casino-logo.png",
-  },
-  {
-    id: 8,
-    link: "https://media.wowpartners.com/redirect.aspx?pid=4055&lpid=16&bid=1485",
-    name: "SG CASINO",
-    description: "100%-os első befizetési bónusz akár  150k HUF-ig (NON-STICKY a bónusz, 35x wager, Maxbet: 5€)",
-    image:
-      "https://kaszinoworld.com/wp-content/uploads/2023/02/SG-casino.png",
-  },
     {
-    id: 9,
+    id: 7,
     link: "https://shuffle.com?r=XyaSY0PWoh",
     name: "SHUFFLE",
     description: "instant CO, nincs KYC",
@@ -103,7 +87,7 @@ const linkData = [
       "https://skinlords.com/wp-content/uploads/2023/09/shuffle-com-site-logo.png",
   },
    {
-    id: 10,
+    id: 8,
     link: "https://go.24slots.partners/visit/?bta=35327&nci=5543",
     name: "24SLOTS",
     description: "PROMO CODE: TAMBA. 200%-os befizetési bónusz 500€-ig, 35x wager, max bet: 12€",
@@ -111,7 +95,7 @@ const linkData = [
       "https://cdn.sanity.io/images/710sk6qy/production/a5b5e2a3012d4a8badb854cd5a06efe76d021a48-270x270.png",
   },
    {
-    id: 11,
+    id: 9,
     link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&bid=3838",
     name: "LVBET",
     description: "200%-os első befizetési bónusz (20x wager) 10 ezer Ft a bónusz maximális összege, tehát 5 ezer Ft befizetéssel maxolod ki a bónuszt (ADBLOCK nélkül nyitja meg a linket!)",
