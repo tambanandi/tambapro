@@ -36,7 +36,7 @@ const linkData = [
     name: "MONRO",
     description: "50 free spin a Burning Chilli X (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert). Promo kód: TAMBA",
     image:
-      "https://cdn.discordapp.com/attachments/1116714308802461796/1192179642283593900/monro.png?ex=65a822d0&is=6595add0&hm=19dfedf99c2aad0e8fe9aa15cc3293af0d27a5719f0559b74bb851f00f28658a&",
+      "https://slotrox.com/wp-content/uploads/2023/12/Monrocasino_Logo_24_2.webp",
   },
   {
     id: 2,
