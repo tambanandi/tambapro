@@ -102,6 +102,14 @@ const linkData = [
     image:
       "https://kaszinok.online/image/cache/data/1-svg-casino-logos/lvbet-1200x630sh.svg",
   },
+  {
+    id: 10,
+    link: "https://charity.energy.partners/redirect.aspx?pid=39866&bid=5388",
+    name: "ENERGYCASINO",
+    description: "30 ingyenes pörgetés. 200%-os befizetési bónusz MAX 20 ezer Ft-ig (10000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 20000 Ft-ot, valamint 100 ingyenes pörgetést), wager 35x",
+    image:
+      "https://energycasino.com/assets/images/og-card.png",
+  },
 ];
 
 export { socialLinks, profileData, linkData, themeData };
