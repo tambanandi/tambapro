@@ -106,7 +106,7 @@ const linkData = [
     id: 10,
     link: "https://charity.energy.partners/redirect.aspx?pid=39866&bid=5388",
     name: "ENERGYCASINO",
-    description: "30 ingyenes pörgetés. 200%-os befizetési bónusz MAX 20 ezer Ft-ig (10000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 20000 Ft-ot, valamint 100 ingyenes pörgetést), wager 35x",
+    description: "30 ingyenes pörgetés. 200%-os befizetési bónusz MAX 20 ezer Ft-ig, 25x wagerrel (10000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 20000 Ft-ot, valamint 100 ingyenes pörgetést)",
     image:
       "https://energycasino.com/assets/images/og-card.png",
   },
