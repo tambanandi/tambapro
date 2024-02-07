@@ -64,7 +64,7 @@ const linkData = [
   },
   {
     id: 5,
-    link: "https://bonafides.rocks/67464/1262?l=3751",
+    link: "https://weiss-h.click/67464/1852?l=3751",
     name: "WEISS",
     description: "szarok a befizu bónuszok, DE A WEFT TOKEN ÖRÖKÉLET",
     image:
