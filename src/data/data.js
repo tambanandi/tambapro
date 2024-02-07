@@ -50,7 +50,7 @@ const linkData = [
     id: 3,
     link: "https://weiss-h.click/67464/1852?l=3751",
     name: "WEISS",
-    description: "szarok a befizu bónuszok, DE A WEFT TOKEN ÖRÖKÉLET",
+    description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% első befizetési bónusz, 40x wager, de csak a bónusz összegére, a wagert csak raw balanceból lehet megforgatni.",
     image:
       "https://cdn.discordapp.com/attachments/1059866853943554138/1185333525319254026/weiss-casino-logo.webp?ex=658f3ade&is=657cc5de&hm=f5a5462fcc89631c160a6464b7614dd7acc7f17ce4c7a9a6e4701edb07d119a4&",
   },
