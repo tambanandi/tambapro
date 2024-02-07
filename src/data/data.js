@@ -46,8 +46,16 @@ const linkData = [
     image:
       "https://cdn.discordapp.com/attachments/1059866853943554138/1185332086463283230/drip2.jpg?ex=658f3987&is=657cc487&hm=3932cf9c673e96340583d83415ef431b6437d2010ee9c2c6213ca60f89522f59&",
   },
-     {
+  {
     id: 3,
+    link: "https://weiss-h.click/67464/1852?l=3751",
+    name: "WEISS",
+    description: "szarok a befizu bónuszok, DE A WEFT TOKEN ÖRÖKÉLET",
+    image:
+      "https://cdn.discordapp.com/attachments/1059866853943554138/1185333525319254026/weiss-casino-logo.webp?ex=658f3ade&is=657cc5de&hm=f5a5462fcc89631c160a6464b7614dd7acc7f17ce4c7a9a6e4701edb07d119a4&",
+  },
+     {
+    id: 4,
     link: "https://media.toxtren.com/redirect.aspx?pid=275187&bid=1971&redirectURL=https://20media.world",
     name: "20BET",
     description: "100% NON-STICKY befizetési bónusz 40 ezer Ft-ig. 20x wager a teljes balancera. Bónuszkód: tambapro",
@@ -55,20 +63,12 @@ const linkData = [
       "https://cdn.discordapp.com/attachments/1059866853943554138/1185336374308642897/1659424839_20bet.png?ex=658f3d86&is=657cc886&hm=aefec319570b13f944e1d9a108f49d8bb4db003cfe2a08145542f55ae4e748c9&",
   },
      {
-    id: 4,
+    id: 5,
     link: "https://ggbetpromo.com/l/65a12c7d2bc0ce8267028d79",
     name: "GGBET",
     description: "Bankkártyával érdemes befizetni, a kripto befizetés 4 napig is eltarthat ha szarakodik a szolgáltató! Első 4 befizetésre tudsz non-sticky bónuszt igényelni: 100% 125% 150% 175%. Különböző bónuszokra különböző max co vonatkozik, ezt a deposit -> saját bónuszaim fülön el tudjátok olvasni. Max bet: $5. Bónuszból nem tudsz hacksaw-n játszani. Mindenképp dollárt válasszatok ki regisztrációkor, máskülönben nem lesz minden játék elérhető",
     image:
       "https://www.deluxecasinobonus.net/storage/deluxenet/961/64cce414ae201_ggbet-casino-logo.jpg",
-  },
-  {
-    id: 5,
-    link: "https://weiss-h.click/67464/1852?l=3751",
-    name: "WEISS",
-    description: "szarok a befizu bónuszok, DE A WEFT TOKEN ÖRÖKÉLET",
-    image:
-      "https://cdn.discordapp.com/attachments/1059866853943554138/1185333525319254026/weiss-casino-logo.webp?ex=658f3ade&is=657cc5de&hm=f5a5462fcc89631c160a6464b7614dd7acc7f17ce4c7a9a6e4701edb07d119a4&",
   },
    {
     id: 6,
