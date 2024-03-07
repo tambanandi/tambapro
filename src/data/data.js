@@ -52,7 +52,7 @@ const linkData = [
     name: "WEISS",
     description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
     image:
-      "https://cdn.discordapp.com/attachments/1059866853943554138/1185333525319254026/weiss-casino-logo.webp?ex=658f3ade&is=657cc5de&hm=f5a5462fcc89631c160a6464b7614dd7acc7f17ce4c7a9a6e4701edb07d119a4&",
+      "https://cdn.discordapp.com/attachments/1215346809333878866/1215349414797910036/Weiss-Casino.jpg?ex=65fc6d58&is=65e9f858&hm=6e503475a020abc4af18d5550a24ba5d47802ed11d328119bf4b735f832934e6&",
   },
      {
     id: 4,
