@@ -76,7 +76,7 @@ const linkData = [
     name: "VAVADA",
     description: "100% NON-STICKY első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
     image:
-      "https://cdn.discordapp.com/attachments/1215346809333878866/1215348680044052550/Vavada_logo.jpg?ex=65fc6ca9&is=65e9f7a9&hm=7e33e06ea89590fda2d38dc373205c7a6fda2349996ba429083820d3d53a4943&",
+      "https://magyarcasinos.com/wp-content/uploads/2024/01/Vavada-Casino-logo.png",
   },
     {
     id: 7,
