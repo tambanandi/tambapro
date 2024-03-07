@@ -2,7 +2,7 @@ const socialLinks = [
 ];
 const profileData = {
   userName: "tambapro",
-  photoLink: "https://cdn.discordapp.com/attachments/1017925966691053660/1121490805379571913/Untitled_Artwork.png",
+  photoLink: "https://cdn.discordapp.com/attachments/1215346809333878866/1215349847884824666/tambapro.png?ex=65fc6dbf&is=65e9f8bf&hm=6ba86e1603b4852c1899bc01405a87a941179703b4a1519ecb38231aae962c73&",
 };
 
 const themeData = {
