@@ -50,7 +50,7 @@ const linkData = [
     id: 3,
     link: "https://weiss-h.click/67464/1852?l=3751",
     name: "WEISS",
-    description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
+    description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
     image:
       "https://gamblecritic.net/wp-content/uploads/2023/09/weiss_casino_1200x630.webp",
   },
