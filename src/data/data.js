@@ -44,7 +44,7 @@ const linkData = [
     name: "DRIP",
     description: "50 free spin az Alien Fruits (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert). Promo kód: TAMBA",
     image:
-      "https://cdn.discordapp.com/attachments/1059866853943554138/1185332086463283230/drip2.jpg?ex=658f3987&is=657cc487&hm=3932cf9c673e96340583d83415ef431b6437d2010ee9c2c6213ca60f89522f59&",
+      "https://cdn.discordapp.com/attachments/1215346809333878866/1215347457655967755/letoltes.png?ex=65fc6b85&is=65e9f685&hm=cb6c03fc600672bda633a85e150ac6fdf8a0cc481f5d73ab38aa9d70ca658ffa&",
   },
   {
     id: 3,
