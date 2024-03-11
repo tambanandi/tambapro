@@ -32,6 +32,14 @@ const themeData = {
 const linkData = [
   {
     id: 1,
+    link: "https://weiss-h.click/67464/1852?l=3751",
+    name: "WEISS",
+    description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
+    image:
+      "https://cdn.discordapp.com/attachments/1215346809333878866/1215349414797910036/Weiss-Casino.jpg?ex=65fc6d58&is=65e9f858&hm=6e503475a020abc4af18d5550a24ba5d47802ed11d328119bf4b735f832934e6&",
+  },
+  {
+    id: 2,
     link: "https://monrocasino.life/c38f2c754",
     name: "MONRO",
     description: "50 free spin a Burning Chilli X (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert). Promo kód: TAMBA",
@@ -39,20 +47,12 @@ const linkData = [
       "https://cdn.sanity.io/images/710sk6qy/production/9befea45a9fa40d989875facb9d8d907e52b12a8-270x270.png",
   },
   {
-    id: 2,
+    id: 3,
     link: "https://dripcasino.life/ca0428707",
     name: "DRIP",
     description: "50 free spin az Alien Fruits (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert). Promo kód: TAMBA",
     image:
       "https://cdn.discordapp.com/attachments/1215346809333878866/1215347457655967755/letoltes.png?ex=65fc6b85&is=65e9f685&hm=cb6c03fc600672bda633a85e150ac6fdf8a0cc481f5d73ab38aa9d70ca658ffa&",
-  },
-  {
-    id: 3,
-    link: "https://weiss-h.click/67464/1852?l=3751",
-    name: "WEISS",
-    description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
-    image:
-      "https://cdn.discordapp.com/attachments/1215346809333878866/1215349414797910036/Weiss-Casino.jpg?ex=65fc6d58&is=65e9f858&hm=6e503475a020abc4af18d5550a24ba5d47802ed11d328119bf4b735f832934e6&",
   },
      {
     id: 4,
