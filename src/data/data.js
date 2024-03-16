@@ -87,7 +87,7 @@ const linkData = [
       "https://cdn.sanity.io/images/710sk6qy/production/a5b5e2a3012d4a8badb854cd5a06efe76d021a48-270x270.png",
   },
    {
-    id: 9,
+    id: 8,
     link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&bid=3838",
     name: "LVBET",
     description: "200%-os első befizetési bónusz (20x wager) 10 ezer Ft a bónusz maximális összege, tehát 5 ezer Ft befizetéssel maxolod ki a bónuszt (ADBLOCK nélkül nyitja meg a linket!)",
@@ -95,7 +95,7 @@ const linkData = [
       "https://kaszinok.online/image/cache/data/1-svg-casino-logos/lvbet-1200x630sh.svg",
   },
   {
-    id: 10,
+    id: 9,
     link: "https://charity.energy.partners/redirect.aspx?pid=39866&bid=5388",
     name: "ENERGYCASINO",
     description: "30 ingyenes pörgetés. 200%-os befizetési bónusz MAX 20 ezer Ft-ig, 25x wagerrel (10000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 20000 Ft-ot, valamint 100 ingyenes pörgetést)",
