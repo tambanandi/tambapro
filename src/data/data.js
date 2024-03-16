@@ -56,14 +56,6 @@ const linkData = [
   },
      {
     id: 4,
-    link: "https://media.toxtren.com/redirect.aspx?pid=275187&bid=1971&redirectURL=https://20media.world",
-    name: "20BET",
-    description: "100% NON-STICKY befizetési bónusz 40 ezer Ft-ig. 20x wager a teljes balancera. Bónuszkód: tambapro",
-    image:
-      "https://cdn.discordapp.com/attachments/1215346809333878866/1215348248491855882/20Bet-2-1.png?ex=65fc6c42&is=65e9f742&hm=26ce10c141f6a872667b4a59bee40a90f77d2ef584f3b16063aab87293c3b25b&",
-  },
-     {
-    id: 5,
     link: "https://ggbetpromo.com/l/65a12c7d2bc0ce8267028d79",
     name: "GGBET",
     description: "Bankkártyával érdemes befizetni, a kripto befizetés 4 napig is eltarthat ha szarakodik a szolgáltató! Első 4 befizetésre tudsz non-sticky bónuszt igényelni: 100% 125% 150% 175%. Különböző bónuszokra különböző max co vonatkozik, ezt a deposit -> saját bónuszaim fülön el tudjátok olvasni. Max bet: $5. Bónuszból nem tudsz hacksaw-n játszani. Mindenképp dollárt válasszatok ki regisztrációkor, máskülönben nem lesz minden játék elérhető",
@@ -71,7 +63,7 @@ const linkData = [
       "https://www.deluxecasinobonus.net/storage/deluxenet/961/64cce414ae201_ggbet-casino-logo.jpg",
   },
    {
-    id: 6,
+    id: 5,
     link: "https://vavadapartnecpa.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
     name: "VAVADA",
     description: "100% NON-STICKY első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
@@ -79,7 +71,7 @@ const linkData = [
       "https://magyarcasinos.com/wp-content/uploads/2024/01/Vavada-Casino-logo.png",
   },
     {
-    id: 7,
+    id: 6,
     link: "https://shuffle.com?r=XyaSY0PWoh",
     name: "SHUFFLE",
     description: "instant CO, nincs KYC",
@@ -87,7 +79,7 @@ const linkData = [
       "https://skinlords.com/wp-content/uploads/2023/09/shuffle-com-site-logo.png",
   },
    {
-    id: 8,
+    id: 7,
     link: "https://go.24slots.partners/visit/?bta=35327&nci=5543",
     name: "24SLOTS",
     description: "PROMO CODE: TAMBA. 200%-os befizetési bónusz 500€-ig, 35x wager, max bet: 12€",
