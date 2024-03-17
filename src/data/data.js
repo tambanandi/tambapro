@@ -40,6 +40,14 @@ const linkData = [
   },
   {
     id: 2,
+    link: "https://ggbetpromo.com/l/65a12c7d2bc0ce8267028d79",
+    name: "GGBET",
+    description: "Bankkártyával érdemes befizetni, a kripto befizetés 4 napig is eltarthat ha szarakodik a szolgáltató! Első 4 befizetésre tudsz non-sticky bónuszt igényelni: 100% 125% 150% 175%. Különböző bónuszokra különböző max co vonatkozik, ezt a deposit -> saját bónuszaim fülön el tudjátok olvasni. Max bet: $5. Bónuszból nem tudsz hacksaw-n játszani. Mindenképp dollárt válasszatok ki regisztrációkor, máskülönben nem lesz minden játék elérhető",
+    image:
+      "https://www.deluxecasinobonus.net/storage/deluxenet/961/64cce414ae201_ggbet-casino-logo.jpg",
+  },
+  {
+    id: 3,
     link: "https://monrocasino.life/c38f2c754",
     name: "MONRO",
     description: "50 free spin a Burning Chilli X (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert). Promo kód: TAMBA",
@@ -47,20 +55,12 @@ const linkData = [
       "https://cdn.sanity.io/images/710sk6qy/production/9befea45a9fa40d989875facb9d8d907e52b12a8-270x270.png",
   },
   {
-    id: 3,
+    id: 4,
     link: "https://dripcasino.life/ca0428707",
     name: "DRIP",
     description: "50 free spin az Alien Fruits (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert). Promo kód: TAMBA",
     image:
       "https://cdn.discordapp.com/attachments/1215346809333878866/1215347457655967755/letoltes.png?ex=65fc6b85&is=65e9f685&hm=cb6c03fc600672bda633a85e150ac6fdf8a0cc481f5d73ab38aa9d70ca658ffa&",
-  },
-     {
-    id: 4,
-    link: "https://ggbetpromo.com/l/65a12c7d2bc0ce8267028d79",
-    name: "GGBET",
-    description: "Bankkártyával érdemes befizetni, a kripto befizetés 4 napig is eltarthat ha szarakodik a szolgáltató! Első 4 befizetésre tudsz non-sticky bónuszt igényelni: 100% 125% 150% 175%. Különböző bónuszokra különböző max co vonatkozik, ezt a deposit -> saját bónuszaim fülön el tudjátok olvasni. Max bet: $5. Bónuszból nem tudsz hacksaw-n játszani. Mindenképp dollárt válasszatok ki regisztrációkor, máskülönben nem lesz minden játék elérhető",
-    image:
-      "https://www.deluxecasinobonus.net/storage/deluxenet/961/64cce414ae201_ggbet-casino-logo.jpg",
   },
    {
     id: 5,
