@@ -42,7 +42,7 @@ const linkData = [
     id: 2,
     link: "https://ggbetpromo.com/l/65a12c7d2bc0ce8267028d79",
     name: "GGBET",
-    description: "Bankkártyával érdemes befizetni, a kripto befizetés 4 napig is eltarthat ha szarakodik a szolgáltató! Első 4 befizetésre tudsz non-sticky bónuszt igényelni: 100% 125% 150% 175%. Különböző bónuszokra különböző max co vonatkozik, ezt a deposit -> saját bónuszaim fülön el tudjátok olvasni. Max bet: $5. Bónuszból nem tudsz hacksaw-n játszani. Mindenképp dollárt válasszatok ki regisztrációkor, máskülönben nem lesz minden játék elérhető",
+    description: "Első 4 befizetésre tudsz non-sticky bónuszt igényelni: 100% 125% 150% 175%. Különböző bónuszokra különböző max co vonatkozik, ezt a deposit -> saját bónuszaim fülön el tudjátok olvasni. Max bet: $5. Bónuszból nem tudsz hacksaw-n játszani. Mindenképp dollárt válasszatok ki regisztrációkor, máskülönben nem lesz minden játék elérhető",
     image:
       "https://www.deluxecasinobonus.net/storage/deluxenet/961/64cce414ae201_ggbet-casino-logo.jpg",
   },
