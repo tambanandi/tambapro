@@ -36,7 +36,7 @@ const linkData = [
     name: "WEISS",
     description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
     image:
-      "https://cdn.discordapp.com/attachments/1215346809333878866/1215349414797910036/Weiss-Casino.jpg?ex=65fc6d58&is=65e9f858&hm=6e503475a020abc4af18d5550a24ba5d47802ed11d328119bf4b735f832934e6&",
+      "https://cdn.discordapp.com/attachments/1215346809333878866/1215349414797910036/Weiss-Casino.jpg?ex=660ee258&is=65fc6d58&hm=5a75f314df3d5322d613e4a4835180ca06595940bd94f97df21343db3c6ee0df&",
   },
   {
     id: 2,
@@ -60,7 +60,7 @@ const linkData = [
     name: "DRIP",
     description: "50 free spin az Alien Fruits (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert). Promo kód: TAMBA",
     image:
-      "https://cdn.discordapp.com/attachments/1215346809333878866/1215347457655967755/letoltes.png?ex=65fc6b85&is=65e9f685&hm=cb6c03fc600672bda633a85e150ac6fdf8a0cc481f5d73ab38aa9d70ca658ffa&",
+      "https://media.discordapp.net/attachments/1215346809333878866/1215347457655967755/letoltes.png?ex=660ee085&is=65fc6b85&hm=b493d33f7acfda48d9a6491da068d879a4cf8ddb91838f17d030bf99d4a910d2&=&format=webp&quality=lossless",
   },
    {
     id: 5,
