@@ -44,7 +44,7 @@ const linkData = [
     name: "FAIRSPIN",
     description: "Saját tokenje van az oldalnak(TFS), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
     image:
-      "https://cdn.discordapp.com/attachments/1215346809333878866/1225546188514791516/300300-1.png?ex=662185d4&is=660f10d4&hm=44e12b53e846f260d0d524e91092feca3e206f553076998a5e2cf3f13c727365&",
+      "https://cdn.discordapp.com/attachments/1215346809333878866/1225549561133531319/300250-1.png?ex=662188f8&is=660f13f8&hm=8c718cb7eee68521a03d8ae838aca29ed6e23e7b10332e80f305d8e59702c7ff&",
   },
   {
     id: 3,
