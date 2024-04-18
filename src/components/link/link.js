@@ -1,6 +1,5 @@
 import { Bounce } from "react-reveal";
 import styled from "styled-components";
-import { SocialIcon } from "react-social-icons";
 import { linkData, themeData } from "../../data/data";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import { useContext } from "react";
