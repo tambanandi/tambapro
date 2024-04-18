@@ -18,6 +18,7 @@ const App = () => {
       </Helmet>
       <Header />
       <Link />
+      <Footer />
     </>
   );
 };
