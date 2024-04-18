@@ -5,16 +5,11 @@ import { useContext } from "react";
 const Footer = () => {
   const a = useContext(themeContext);
 
-  const footerSocialLinkColor = () => {
-    if (a.darkMode) return themeData.dark.footerSocialLinkColor;
-    else return themeData.light.footerSocialLinkColor;
-  };
-
   const SocialIconStyle = {
     width: "650px",
     height: "164px",
     borderRadius: "1%",
-    backgroundColor: footerSocialLinkColor(),
+    backgroundColor: "transparent",
   };
 
   return (
@@ -45,14 +40,11 @@ export default Footer;
 const FooterContainer = styled.div`
   width: 100vw;
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 1px;
   align-items: center;
   justify-content: center;
 `;
 
 const FooterContent = styled.div`
   margin: 5px;
-  :hover {
-    transform: scale(1.1);
-  }
 `;
