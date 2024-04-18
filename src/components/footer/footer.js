@@ -26,10 +26,10 @@ const Footer = () => {
           {socialLinks.map((link, index) => {
             return (
               <FooterContent key={index}>
-                <SocialIcon
+                <img
                   className="shadow"
                   style={SocialIconStyle}
-                  url={link}
+                  src={link}
                 />
               </FooterContent>
             );
