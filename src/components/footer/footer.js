@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { SocialIcon } from "react-social-icons";
 import { socialLinks, themeData } from "../../data/data";
 import themeContext from "../../state/context/themeContext";
 import { useContext } from "react";
@@ -30,6 +29,7 @@ const Footer = () => {
                   className="shadow"
                   style={SocialIconStyle}
                   src={link}
+                  alt="gambleaware"
                 />
               </FooterContent>
             );
