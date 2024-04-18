@@ -48,16 +48,6 @@ const Link = () => {
           ))}
         </ParentWrapper>
       </Bounce>
-      <div className="bottom">
-        <hr />
-        <FooterContainer>
-            <SocialIcon
-                  className="shadow"
-                  style={SocialIconStyle}
-                  url="https://cdn.discordapp.com/attachments/1017925966691053660/1230450434804551743/Dls2Y6OXgAA2_fb.png"
-                />
-        </FooterContainer>
-      </div>
     </>
   );
 };
@@ -121,19 +111,4 @@ const ParentWrapper = styled.div`
   flex-direction: column;
   height: 100vh;
 `;
-
-const FooterContainer = styled.div`
-  width: 100vw;
-  display: flex;
-  margin-bottom: 10px;
-  align-items: center;
-  justify-content: center;
-`;
-
-const SocialIconStyle = {
-    width: "30px",
-    height: "30px",
-    borderRadius: "50%",
-    backgroundColor: themeData.dark.footerSocialLinkColor,
-  };
 
