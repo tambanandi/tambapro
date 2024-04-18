@@ -13,7 +13,7 @@ const Footer = () => {
   const SocialIconStyle = {
     width: "650px",
     height: "164px",
-    borderRadius: "50%",
+    borderRadius: "1%",
     backgroundColor: footerSocialLinkColor(),
   };
 
@@ -44,7 +44,7 @@ export default Footer;
 
 const FooterContainer = styled.div`
   width: 100vw;
-  display: flex;
+  display: block;
   margin-bottom: 10px;
   align-items: center;
   justify-content: center;
