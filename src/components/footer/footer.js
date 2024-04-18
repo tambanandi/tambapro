@@ -12,8 +12,8 @@ const Footer = () => {
   };
 
   const SocialIconStyle = {
-    width: "30px",
-    height: "30px",
+    width: "650px",
+    height: "164px",
     borderRadius: "50%",
     backgroundColor: footerSocialLinkColor(),
   };
