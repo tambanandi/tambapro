@@ -1,10 +1,8 @@
 import styled from "styled-components";
-import { socialLinks, themeData } from "../../data/data";
+import { socialLinks } from "../../data/data";
 import themeContext from "../../state/context/themeContext";
 import { useContext } from "react";
 const Footer = () => {
-  const a = useContext(themeContext);
-
   const SocialIconStyle = {
     width: "650px",
     height: "164px",
