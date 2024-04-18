@@ -1,4 +1,5 @@
 const socialLinks = [
+  "Dls2Y6OXgAA2_fb.png"
 ];
 const profileData = {
   userName: "tambapro",
