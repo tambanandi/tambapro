@@ -31,8 +31,16 @@ const themeData = {
   },
 };
 const linkData = [
-  {
+   {
     id: 1,
+    link: "https://1gocasino.life/cd7f6a2be",
+    name: "1GO",
+    description: "Promó kód: TAMBA. 50 free spin a Book of Kemet (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert) ",
+    image:
+      "https://rotativka.com/en/wp-content/uploads/sites/3/2024/04/1Go-Casino-Review-150x150.png",
+  },
+  {
+    id: 2,
     link: "https://weiss-h.click/67464/1852?l=3751",
     name: "WEISS",
     description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
@@ -40,7 +48,7 @@ const linkData = [
       "https://cdn.discordapp.com/attachments/1215346809333878866/1215349414797910036/Weiss-Casino.jpg?ex=66215758&is=660ee258&hm=f62d7e34ada0f2f86fc346e18d1b666142742f390129d66fb09fdeabcc126468&",
   },
   {
-    id: 2,
+    id: 3,
     link: "https://fairspin-h.click/67464/1240?l=2",
     name: "FAIRSPIN",
     description: "Saját tokenje van az oldalnak(TFS), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
@@ -48,7 +56,7 @@ const linkData = [
       "https://cdn.discordapp.com/attachments/1215346809333878866/1225552325284724796/images.png?ex=66218b8c&is=660f168c&hm=25cffa689020433a1aef8162100d29befa7dcf07b40561f3c056eefc123b8235&",
   },
   {
-    id: 3,
+    id: 4,
     link: "https://ggbetpromo.com/l/65a12c7d2bc0ce8267028d79",
     name: "GGBET",
     description: "Első 4 befizetésre tudsz non-sticky bónuszt igényelni: 100% 125% 150% 175%. Különböző bónuszokra különböző max co vonatkozik, ezt a deposit -> saját bónuszaim fülön el tudjátok olvasni. Max bet: $5. Bónuszból nem tudsz hacksaw-n játszani. Mindenképp dollárt válasszatok ki regisztrációkor, máskülönben nem lesz minden játék elérhető",
@@ -56,7 +64,7 @@ const linkData = [
       "https://www.deluxecasinobonus.net/storage/deluxenet/961/64cce414ae201_ggbet-casino-logo.jpg",
   },
    {
-    id: 4,
+    id: 5,
     link: "https://vavadapartnecpa.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
     name: "VAVADA",
     description: "100% NON-STICKY első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
@@ -64,7 +72,7 @@ const linkData = [
       "https://magyarcasinos.com/wp-content/uploads/2024/01/Vavada-Casino-logo.png",
   },
     {
-    id: 5,
+    id: 6,
     link: "https://shuffle.com?r=XyaSY0PWoh",
     name: "SHUFFLE",
     description: "instant CO, nincs KYC",
@@ -72,28 +80,12 @@ const linkData = [
       "https://skinlords.com/wp-content/uploads/2023/09/shuffle-com-site-logo.png",
   },
    {
-    id: 6,
+    id: 7,
     link: "https://go.24slots.partners/visit/?bta=35327&nci=5543",
     name: "24SLOTS",
     description: "PROMO CODE: TAMBA. 200%-os befizetési bónusz 500€-ig, 35x wager, max bet: 12€",
     image:
       "https://cdn.sanity.io/images/710sk6qy/production/a5b5e2a3012d4a8badb854cd5a06efe76d021a48-270x270.png",
-  },
-   {
-    id: 7,
-    link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&bid=3838",
-    name: "LVBET",
-    description: "200%-os első befizetési bónusz (20x wager) 10 ezer Ft a bónusz maximális összege, tehát 5 ezer Ft befizetéssel maxolod ki a bónuszt (ADBLOCK nélkül nyitja meg a linket!)",
-    image:
-      "https://kaszinok.online/image/cache/data/1-svg-casino-logos/lvbet-1200x630sh.svg",
-  },
-  {
-    id: 8,
-    link: "https://charity.energy.partners/redirect.aspx?pid=39866&bid=5388",
-    name: "ENERGYCASINO",
-    description: "30 ingyenes pörgetés. 200%-os befizetési bónusz MAX 20 ezer Ft-ig, 25x wagerrel (10000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 20000 Ft-ot, valamint 100 ingyenes pörgetést)",
-    image:
-      "https://energycasino.com/assets/images/og-card.png",
   },
 ];
 
