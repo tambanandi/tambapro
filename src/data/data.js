@@ -93,7 +93,7 @@ const linkData = [
     name: "ENERGYCASINO",
     description: "200%-os befizetési bónusz MAX 20 ezer Ft-ig (10000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 20000 Ft-ot)",
     image:
-      "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftopkaszinok.com%2Fkaszinok%2Fenergycasino%2F&psig=AOvVaw2ZkR23PtBkvpNirnoa1nw1&ust=1714680644925000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjxy6ih7YUDFQAAAAAdAAAAABBX",
+      "https://www.magyar-online-kaszinok.com/wp-content/uploads/2019/01/Circle_pinkframe_200px_ene_logo-min.png",
   },
 ];
 
