@@ -49,30 +49,22 @@ const linkData = [
   },
   {
     id: 3,
-    link: "https://fairspin-h.click/67464/1240?l=2",
-    name: "FAIRSPIN",
-    description: "Saját tokenje van az oldalnak(TFS), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
-    image:
-      "https://cdn.discordapp.com/attachments/1215346809333878866/1225552325284724796/images.png?ex=66218b8c&is=660f168c&hm=25cffa689020433a1aef8162100d29befa7dcf07b40561f3c056eefc123b8235&",
-  },
-  {
-    id: 4,
-    link: "https://ggbetpromo.com/l/65a12c7d2bc0ce8267028d79",
-    name: "GGBET",
-    description: "Első 4 befizetésre tudsz non-sticky bónuszt igényelni: 100% 125% 150% 175%. Különböző bónuszokra különböző max co vonatkozik, ezt a deposit -> saját bónuszaim fülön el tudjátok olvasni. Max bet: $5. Bónuszból nem tudsz hacksaw-n játszani. Mindenképp dollárt válasszatok ki regisztrációkor, máskülönben nem lesz minden játék elérhető",
-    image:
-      "https://www.deluxecasinobonus.net/storage/deluxenet/961/64cce414ae201_ggbet-casino-logo.jpg",
-  },
-   {
-    id: 5,
     link: "https://vavadapartnecpa.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
     name: "VAVADA",
     description: "100% NON-STICKY első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
     image:
       "https://magyarcasinos.com/wp-content/uploads/2024/01/Vavada-Casino-logo.png",
   },
+  {
+    id: 4,
+    link: "https://fairspin-h.click/67464/1240?l=2",
+    name: "FAIRSPIN",
+    description: "Saját tokenje van az oldalnak(TFS), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
+    image:
+      "https://cdn.discordapp.com/attachments/1215346809333878866/1225552325284724796/images.png?ex=66218b8c&is=660f168c&hm=25cffa689020433a1aef8162100d29befa7dcf07b40561f3c056eefc123b8235&",
+  },
     {
-    id: 6,
+    id: 5,
     link: "https://shuffle.com?r=XyaSY0PWoh",
     name: "SHUFFLE",
     description: "instant CO, nincs KYC",
@@ -80,7 +72,7 @@ const linkData = [
       "https://skinlords.com/wp-content/uploads/2023/09/shuffle-com-site-logo.png",
   },
    {
-    id: 7,
+    id: 6,
     link: "https://go.24slots.partners/visit/?bta=35327&nci=5543",
     name: "24SLOTS",
     description: "PROMO CODE: TAMBA. 200%-os befizetési bónusz 500€-ig, 35x wager, max bet: 12€",
