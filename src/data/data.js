@@ -67,7 +67,7 @@ const linkData = [
     id: 5,
     link: "https://shuffle.com?r=XyaSY0PWoh",
     name: "SHUFFLE",
-    description: "instant CO, nincs KYC",
+    description: "instant CO, nincs KYC, nagyon komoly SHFL tokenje van a kaszinónak",
     image:
       "https://skinlords.com/wp-content/uploads/2023/09/shuffle-com-site-logo.png",
   },
@@ -78,6 +78,22 @@ const linkData = [
     description: "PROMO CODE: TAMBA. 200%-os befizetési bónusz 500€-ig, 35x wager, max bet: 12€",
     image:
       "https://cdn.sanity.io/images/710sk6qy/production/a5b5e2a3012d4a8badb854cd5a06efe76d021a48-270x270.png",
+  },
+  {
+    id: 7,
+    link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&bid=3838",
+    name: "LVBET",
+    description: "200%-os befizetési bónusz MAX 10 ezer Ft-ig (5000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 10000 Ft-ot)",
+    image:
+      "https://www.topbets.co.ke/wp-content/uploads/2020/10/free-betting-tips-32.png",
+  },
+  {
+    id: 8,
+    link: "https://charity.energy.partners/redirect.aspx?pid=39866&bid=5388",
+    name: "ENERGYCASINO",
+    description: "200%-os befizetési bónusz MAX 20 ezer Ft-ig (10000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 20000 Ft-ot)",
+    image:
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftopkaszinok.com%2Fkaszinok%2Fenergycasino%2F&psig=AOvVaw2ZkR23PtBkvpNirnoa1nw1&ust=1714680644925000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjxy6ih7YUDFQAAAAAdAAAAABBX",
   },
 ];
 
