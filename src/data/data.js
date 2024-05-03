@@ -81,9 +81,9 @@ const linkData = [
   },
   {
     id: 7,
-    link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&bid=3838",
+    link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&lpid=802&bid=4398",
     name: "LVBET",
-    description: "200%-os befizetési bónusz MAX 10 ezer Ft-ig (5000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 10000 Ft-ot)",
+    description: "2000Ft befizetési nélküli bónusz, 200%-os befizetési bónusz MAX 10000 Ft-ig (5000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 10000 Ft-ot)",
     image:
       "https://www.topbets.co.ke/wp-content/uploads/2020/10/free-betting-tips-32.png",
   },
