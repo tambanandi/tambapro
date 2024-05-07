@@ -1,5 +1,4 @@
 import Header from "./components/header/header";
-import Footer from "./components/footer/footer";
 import Link from "./components/link/link";
 import { Helmet } from 'react-helmet';
 
@@ -19,7 +18,6 @@ const App = () => {
       </Helmet>
       <Header />
       <Link />
-      <Footer />
     </>
   );
 };
