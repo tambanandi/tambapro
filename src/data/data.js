@@ -31,21 +31,21 @@ const themeData = {
   },
 };
 const linkData = [
-   {
-    id: 1,
-    link: "https://1gocasino.life/cd7f6a2be",
-    name: "1GO",
-    description: "Promó kód: TAMBA. 50 free spin a Book of Kemet (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert) ",
-    image:
-      "https://rotativka.com/en/wp-content/uploads/sites/3/2024/04/1Go-Casino-Review-150x150.png",
-  },
   {
-    id: 2,
+    id: 1,
     link: "https://weiss-h.click/67464/1852?l=3751",
     name: "WEISS",
     description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
     image:
       "https://cdn.discordapp.com/attachments/1215346809333878866/1215349414797910036/Weiss-Casino.jpg?ex=66215758&is=660ee258&hm=f62d7e34ada0f2f86fc346e18d1b666142742f390129d66fb09fdeabcc126468&",
+  },
+  {
+    id: 2,
+    link: "https://1gocasino.life/cd7f6a2be",
+    name: "1GO",
+    description: "Promó kód: TAMBA. 50 free spin a Book of Kemet (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert) ",
+    image:
+      "https://rotativka.com/en/wp-content/uploads/sites/3/2024/04/1Go-Casino-Review-150x150.png",
   },
   {
     id: 3,
