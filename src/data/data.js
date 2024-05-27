@@ -41,11 +41,11 @@ const linkData = [
   },
   {
     id: 2,
-    link: "https://1gocasino.life/cd7f6a2be",
-    name: "1GO",
-    description: "Promó kód: TAMBA. 50 free spin a Book of Kemet (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert) ",
+    link: "https://record.joinaff.com/_Ii3HG-Dmm140xFjfc6AwHGNd7ZgqdRLk/1/?pg=1",
+    name: "WINLEGENDS",
+    description: "100% NON-STICKY első befizetési bónusz 2000 €-ig, 40x wager, Revoluttal NE fizessetek be mert litván számlára sajnos nem engedik ki a pénzt",
     image:
-      "https://rotativka.com/en/wp-content/uploads/sites/3/2024/04/1Go-Casino-Review-150x150.png",
+      "https://d3unmdak6a5glo.cloudfront.net/eyJidWNrZXQiOiJjZG4tam90aXBhIiwia2V5IjoiY29udGVudC8yN2E3MmQ4YTAzYmM3ZWI3NDJkYzQwYmJiNGViZmY2NDU1MDcyZTFhLTI3MHgyNzAucG5nIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJwbmciLCJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsImhlaWdodCI6MjcwLCJ3aWR0aCI6MjcwfX19",
   },
   {
     id: 3,
