@@ -55,32 +55,16 @@ const linkData = [
     image:
       "https://magyarcasinos.com/wp-content/uploads/2024/01/Vavada-Casino-logo.png",
   },
-  {
-    id: 4,
-    link: "https://fairspin-h.click/67464/1240?l=2",
-    name: "FAIRSPIN",
-    description: "Saját tokenje van az oldalnak(TFS), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz, 40x wager, de csak a bónusz összegére.",
-    image:
-      "https://cdn.discordapp.com/attachments/1215346809333878866/1225552325284724796/images.png?ex=66218b8c&is=660f168c&hm=25cffa689020433a1aef8162100d29befa7dcf07b40561f3c056eefc123b8235&",
-  },
     {
-    id: 5,
+    id: 4,
     link: "https://shuffle.com?r=XyaSY0PWoh",
     name: "SHUFFLE",
     description: "instant CO, nincs KYC, nagyon komoly SHFL tokenje van a kaszinónak",
     image:
       "https://skinlords.com/wp-content/uploads/2023/09/shuffle-com-site-logo.png",
   },
-   {
-    id: 6,
-    link: "https://go.24slots.partners/visit/?bta=35327&nci=5543",
-    name: "24SLOTS",
-    description: "PROMO CODE: TAMBA. 200%-os befizetési bónusz 500€-ig, 35x wager, max bet: 12€",
-    image:
-      "https://cdn.sanity.io/images/710sk6qy/production/a5b5e2a3012d4a8badb854cd5a06efe76d021a48-270x270.png",
-  },
   {
-    id: 7,
+    id: 5,
     link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&lpid=802&bid=4398",
     name: "LVBET",
     description: "2000Ft befizetési nélküli bónusz, 200%-os befizetési bónusz MAX 10000 Ft-ig (5000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 10000 Ft-ot)",
@@ -88,7 +72,7 @@ const linkData = [
       "https://www.topbets.co.ke/wp-content/uploads/2020/10/free-betting-tips-32.png",
   },
   {
-    id: 8,
+    id: 6,
     link: "https://charity.energy.partners/redirect.aspx?pid=39866&bid=5388",
     name: "ENERGYCASINO",
     description: "200%-os befizetési bónusz MAX 20 ezer Ft-ig (10000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 20000 Ft-ot)",
