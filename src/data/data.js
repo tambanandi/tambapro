@@ -41,14 +41,6 @@ const linkData = [
   },
   {
     id: 2,
-    link: "https://spinsala.com/en?invite=tambapro",
-    name: "SPINSALA",
-    description: "2 bonuszt kapsz az első deponál: 1. egy bonusbuy a gates of olympuson, min depo: 50$ -> 50$ depo/20$-os bonusz, 100$ depo/40$-os bonusz, 200$ depo/100$-os bonusz, wager: 35x, max co: $500; 2. 280%-os befizetési bonusz, min depo: 20$, wager: 35x, max co: depo 50x, PROMO KÓD: TAMBAPRO",
-    image:
-      "https://pbs.twimg.com/profile_images/1784512023583186944/EXYS6Qk5_400x400.jpg",
-  }
-  {
-    id: 3,
     link: "https://record.joinaff.com/_Ii3HG-Dmm140xFjfc6AwHGNd7ZgqdRLk/1/?pg=1",
     name: "WINLEGENDS",
     description: "100% NON-STICKY első befizetési bónusz 2000 €-ig, 40x wager, Revoluttal NE fizessetek be mert litván számlára sajnos nem engedik ki a pénzt",
@@ -57,14 +49,6 @@ const linkData = [
   },
   {
     id: 3,
-    link: "https://record.joinaff.com/_Ii3HG-Dmm140xFjfc6AwHGNd7ZgqdRLk/1/?pg=1",
-    name: "WINLEGENDS",
-    description: "100% NON-STICKY első befizetési bónusz 2000 €-ig, 40x wager, Revoluttal NE fizessetek be mert litván számlára sajnos nem engedik ki a pénzt",
-    image:
-      "https://d3unmdak6a5glo.cloudfront.net/eyJidWNrZXQiOiJjZG4tam90aXBhIiwia2V5IjoiY29udGVudC8yN2E3MmQ4YTAzYmM3ZWI3NDJkYzQwYmJiNGViZmY2NDU1MDcyZTFhLTI3MHgyNzAucG5nIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJwbmciLCJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsImhlaWdodCI6MjcwLCJ3aWR0aCI6MjcwfX19",
-  },
-  {
-    id: 4,
     link: "https://vavadapartnecpa.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
     name: "VAVADA",
     description: "100% NON-STICKY első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
@@ -72,7 +56,7 @@ const linkData = [
       "https://magyarcasinos.com/wp-content/uploads/2024/01/Vavada-Casino-logo.png",
   },
     {
-    id: 5,
+    id: 4,
     link: "https://shuffle.com?r=XyaSY0PWoh",
     name: "SHUFFLE",
     description: "instant CO, nincs KYC, nagyon komoly SHFL tokenje van a kaszinónak",
@@ -80,7 +64,7 @@ const linkData = [
       "https://skinlords.com/wp-content/uploads/2023/09/shuffle-com-site-logo.png",
   },
   {
-    id: 6,
+    id: 5,
     link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&lpid=802&bid=4398",
     name: "LVBET",
     description: "2000Ft befizetési nélküli bónusz, 200%-os befizetési bónusz MAX 10000 Ft-ig (5000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 10000 Ft-ot)",
@@ -88,7 +72,7 @@ const linkData = [
       "https://www.topbets.co.ke/wp-content/uploads/2020/10/free-betting-tips-32.png",
   },
   {
-    id: 7,
+    id: 6,
     link: "https://charity.energy.partners/redirect.aspx?pid=39866&bid=5388",
     name: "ENERGYCASINO",
     description: "200%-os befizetési bónusz MAX 20 ezer Ft-ig (10000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 20000 Ft-ot)",
