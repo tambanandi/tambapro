@@ -56,6 +56,14 @@ const linkData = [
       "https://d3unmdak6a5glo.cloudfront.net/eyJidWNrZXQiOiJjZG4tam90aXBhIiwia2V5IjoiY29udGVudC8yN2E3MmQ4YTAzYmM3ZWI3NDJkYzQwYmJiNGViZmY2NDU1MDcyZTFhLTI3MHgyNzAucG5nIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJwbmciLCJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsImhlaWdodCI6MjcwLCJ3aWR0aCI6MjcwfX19",
   },
   {
+    id: 3,
+    link: "https://record.joinaff.com/_Ii3HG-Dmm140xFjfc6AwHGNd7ZgqdRLk/1/?pg=1",
+    name: "WINLEGENDS",
+    description: "100% NON-STICKY első befizetési bónusz 2000 €-ig, 40x wager, Revoluttal NE fizessetek be mert litván számlára sajnos nem engedik ki a pénzt",
+    image:
+      "https://d3unmdak6a5glo.cloudfront.net/eyJidWNrZXQiOiJjZG4tam90aXBhIiwia2V5IjoiY29udGVudC8yN2E3MmQ4YTAzYmM3ZWI3NDJkYzQwYmJiNGViZmY2NDU1MDcyZTFhLTI3MHgyNzAucG5nIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJwbmciLCJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsImhlaWdodCI6MjcwLCJ3aWR0aCI6MjcwfX19",
+  },
+  {
     id: 4,
     link: "https://vavadapartnecpa.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
     name: "VAVADA",
