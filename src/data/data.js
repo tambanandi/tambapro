@@ -43,7 +43,7 @@ const linkData = [
     id: 2,
     link: "https://spinsala.com/en?invite=tambapro",
     name: "SPINSALA",
-    description: "2 bonuszt kapsz az első depodnál:1. egy bonusbuy a gates of olympuson, min depo: 50$(50$ depo/20$-os bonusz, 100$ depo/40$-os bonusz, 200$ depo/100$-os bonusz), wager: 35x, max co: $500, 2. 280%-os befizetési bonusz, min depo: 20$, wager: 35x, max co: depo 50x",
+    description: "2 bonuszt kapsz az első deponál: 1. egy bonusbuy a gates of olympuson, min depo: 50$(50$ depo/20$-os bonusz, 100$ depo/40$-os bonusz, 200$ depo/100$-os bonusz), wager: 35x, max co: $500; 2. 280%-os befizetési bonusz, min depo: 20$, wager: 35x, max co: depo 50x, PROMO KÓD: TAMBAPRO",
     image:
       "https://pbs.twimg.com/profile_images/1784512023583186944/EXYS6Qk5_400x400.jpg",
   }
