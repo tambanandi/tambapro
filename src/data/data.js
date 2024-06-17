@@ -56,7 +56,7 @@ const linkData = [
       "https://info.cashtocode.com/wp-content/uploads/2023/03/burningbet-logo.png",
   },
   {
-    id: 3,
+    id: 4,
     link: "https://vavadapartnecpa.com/?promo=ad710f73-aba5-4b0e-8853-a4615ddfd99c&target=register",
     name: "VAVADA",
     description: "100% NON-STICKY első befizetési bónusz 1000 €-ig (35x wager, a befizetés után nem ajánlott egyből aktiválni a bónuszt, először tudsz a befizetett pénzeddel játszani mint RAW money és ha elbukod, de még hagysz valamennyit, utána is tudod aktiválni a bónuszt és amennyit befizettél azt megkapod)",
@@ -64,7 +64,7 @@ const linkData = [
       "https://magyarcasinos.com/wp-content/uploads/2024/01/Vavada-Casino-logo.png",
   },
     {
-    id: 4,
+    id: 5,
     link: "https://shuffle.com?r=XyaSY0PWoh",
     name: "SHUFFLE",
     description: "instant CO, nincs KYC, nagyon komoly SHFL tokenje van a kaszinónak",
@@ -72,7 +72,7 @@ const linkData = [
       "https://skinlords.com/wp-content/uploads/2023/09/shuffle-com-site-logo.png",
   },
   {
-    id: 5,
+    id: 6,
     link: "https://ads.lvbetpartners.com/redirect.aspx?pid=9570&lpid=802&bid=4398",
     name: "LVBET",
     description: "2000Ft befizetési nélküli bónusz, 200%-os befizetési bónusz MAX 10000 Ft-ig (5000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 10000 Ft-ot)",
@@ -80,7 +80,7 @@ const linkData = [
       "https://www.topbets.co.ke/wp-content/uploads/2020/10/free-betting-tips-32.png",
   },
   {
-    id: 6,
+    id: 7,
     link: "https://charity.energy.partners/redirect.aspx?pid=39866&bid=5388",
     name: "ENERGYCASINO",
     description: "200%-os befizetési bónusz MAX 20 ezer Ft-ig (10000 Ft-ot érdemes befizetni és akkor kapod meg a befizetési bónusz maximum összegét, azaz 20000 Ft-ot)",
