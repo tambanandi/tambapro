@@ -35,17 +35,25 @@ const linkData = [
     id: 1,
     link: "https://weiss-h.click/67464/1852?l=3751",
     name: "WEISS",
-    description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz, 45x wager, de csak a bónusz összegére.",
+    description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz 45x wager, de csak a bónusz összegére.",
     image:
       "https://cdn.discordapp.com/attachments/1215346809333878866/1215349414797910036/Weiss-Casino.jpg?ex=66215758&is=660ee258&hm=f62d7e34ada0f2f86fc346e18d1b666142742f390129d66fb09fdeabcc126468&",
   },
   {
     id: 2,
-    link: "https://record.joinaff.com/_Ii3HG-Dmm140xFjfc6AwHGNd7ZgqdRLk/1/?pg=1",
+    link: "https://record.joinaff.com/_Ii3HG-Dmm14d1TI8cKQqvmNd7ZgqdRLk/1/?pg=1",
     name: "WINLEGENDS",
     description: "100% NON-STICKY első befizetési bónusz 2000 €-ig, 40x wager, Revoluttal NE fizessetek be mert litván számlára sajnos nem engedik ki a pénzt",
     image:
       "https://d3unmdak6a5glo.cloudfront.net/eyJidWNrZXQiOiJjZG4tam90aXBhIiwia2V5IjoiY29udGVudC8yN2E3MmQ4YTAzYmM3ZWI3NDJkYzQwYmJiNGViZmY2NDU1MDcyZTFhLTI3MHgyNzAucG5nIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJwbmciLCJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsImhlaWdodCI6MjcwLCJ3aWR0aCI6MjcwfX19",
+  },
+   {
+    id: 3,
+    link: "https://record.joinaff.com/_Ii3HG-Dmm140xFjfc6AwHGNd7ZgqdRLk/1/?pg=1",
+    name: "BURNINGBET",
+    description: "200%os NON-STICKY első befizetési bónusz 100€-ig 35x wager + 100fs 25/nap 50x wager, Revoluttal NE fizessetek be mert litván számlára sajnos nem engedik ki a pénzt",
+    image:
+      "https://info.cashtocode.com/wp-content/uploads/2023/03/burningbet-logo.png",
   },
   {
     id: 3,
