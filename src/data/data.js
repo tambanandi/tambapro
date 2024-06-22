@@ -41,7 +41,7 @@ const linkData = [
   },
   {
     id: 2,
-    link: "https://record.joinaff.com/_Ii3HG-Dmm14d1TI8cKQqvmNd7ZgqdRLk/1/?pg=1",
+    link: "https://record.joinaff.com/_Ii3HG-Dmm140xFjfc6AwHGNd7ZgqdRLk/1/?pg=1",
     name: "WINLEGENDS",
     description: "100% NON-STICKY első befizetési bónusz 2000 €-ig 40x wager, Revoluttal NE fizessetek be mert litván számlára sajnos nem engedik ki a pénzt",
     image:
@@ -49,7 +49,7 @@ const linkData = [
   },
    {
     id: 3,
-    link: "https://record.joinaff.com/_Ii3HG-Dmm140xFjfc6AwHGNd7ZgqdRLk/1/?pg=1",
+    link: "https://record.joinaff.com/_Ii3HG-Dmm14d1TI8cKQqvmNd7ZgqdRLk/1/?pg=1",
     name: "BURNINGBET",
     description: "200%os NON-STICKY első befizetési bónusz 100€-ig 35x wager + 100fs 25/nap 50x wager, Revoluttal NE fizessetek be mert litván számlára sajnos nem engedik ki a pénzt",
     image:
