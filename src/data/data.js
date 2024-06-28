@@ -45,7 +45,7 @@ const linkData = [
     name: "1XSLOT",
     description: "150% NON-STICKY depo bónusz, wager: 40x (de csak a bónusz összegen), max bet: 5 eur, a bónuszból maximum a bónusz összegét nyerheted meg a wager után",
     image:
-      "https://cdn.discordapp.com/attachments/1215346809333878866/1215349414797910036/Weiss-Casino.jpg?ex=66215758&is=660ee258&hm=f62d7e34ada0f2f86fc346e18d1b666142742f390129d66fb09fdeabcc126468&",
+      "https://www.askgamblers.com/uploads/original/other/d3/f3/ee/796fe4cc081ee470413ac5962934a8ea3b/1xslot-casino-logo.png",
   },
   {
     id: 3,
