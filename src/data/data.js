@@ -43,7 +43,7 @@ const linkData = [
     id: 2,
     link: "https://refpaqutiu.top/L?tag=d_3446052m_8949c_&site=3446052&ad=8949",
     name: "1XSLOT",
-    description: "150% NON-STICKY depo bónusz, wager: 40x (de csak a bónusz összegen), max bet: 5 eur, a bónuszból maximum a bónusz összegét nyerheted meg a wager után",
+    description: "instant CO, nincs KYC, 150% NON-STICKY depo bónusz, wager: 40x (de csak a bónusz összegen), max bet: 5 eur, a bónuszból maximum a bónusz összegét nyerheted meg a wager után",
     image:
       "https://www.askgamblers.com/uploads/original/other/d3/f3/ee/796fe4cc081ee470413ac5962934a8ea3b/1xslot-casino-logo.png",
   },
