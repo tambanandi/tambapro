@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "https://l7ntqg6gfj.execute-api.eu-north-1.amazonaws.com/",
   "dependencies": {
-    "@babel/core": "^7.12.3",
+    "@babel/core": "^7.16.0",
     "@testing-library/jest-dom": "5.16.1",
     "@testing-library/react": "11.2.7",
     "@testing-library/user-event": "13.5.0",
