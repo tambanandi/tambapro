@@ -49,9 +49,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/core@npm:7.12.3":
-  version: 7.12.3
-  resolution: "@babel/core@npm:7.12.3"
+"@babel/core@npm:7.16.0":
+  version: 7.16.0
+  resolution: "@babel/core@npm:7.16.0"
   dependencies:
     "@babel/code-frame": ^7.10.4
     "@babel/generator": ^7.12.1
