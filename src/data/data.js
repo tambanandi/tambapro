@@ -47,7 +47,7 @@ const linkData = [
     image:
       "https://cdn.discordapp.com/attachments/1215346809333878866/1254779588626878484/Lex_1000x1000.png?ex=66b21b0e&is=66b0c98e&hm=b9100c8fd5675182992f7056dbde50d840d9b9203433ac2ded187d17dd184150&",
   },
-   {
+  {
     id: 3,
     link: "https://record.joinaff.com/_Ii3HG-Dmm14d1TI8cKQqvmNd7ZgqdRLk/1/?pg=1",
     name: "BURNINGBET",
