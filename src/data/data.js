@@ -53,7 +53,7 @@ const linkData = [
     name: "BETFLARE",
     description: "100% NON-STICKY első befizetési bónusz 500 €-ig 40x wager, Revoluttal NE fizessetek be mert litván számlára sajnos nem engedik ki a pénzt",
     image:
-      "https://cdn.discordapp.com/attachments/1215346809333878866/1254779588626878484/Lex_1000x1000.png?ex=66b21b0e&is=66b0c98e&hm=b9100c8fd5675182992f7056dbde50d840d9b9203433ac2ded187d17dd184150&",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR85dJlMOtS2xWCtGhGKKUgzAhJYN7uLvE6bA&s",
   },
   {
     id: 4,
