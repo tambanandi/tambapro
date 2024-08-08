@@ -3,7 +3,7 @@ const socialLinks = [
 ];
 const profileData = {
   userName: "tambapro",
-  photoLink: "https://cdn.discordapp.com/attachments/1215346809333878866/1215349847884824666/tambapro.png?ex=65fc6dbf&is=65e9f8bf&hm=6ba86e1603b4852c1899bc01405a87a941179703b4a1519ecb38231aae962c73&",
+  photoLink: "https://yt3.ggpht.com/b1jUm43HkKZPOoO1YnDCjLZ-5iie63q77S4szXhAWBPFDKK6x9iWkEy_WaQScGwWzC3pfAFzBN0=s600-c-k-c0x00ffffff-no-rj-rp-mo",
 };
 
 const themeData = {
