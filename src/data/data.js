@@ -45,7 +45,7 @@ const linkData = [
     name: "LEX",
     description: "Promo kód: TAMBA, 50 free spin a Book of Kemet (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert)",
     image:
-      "https://cdn.discordapp.com/attachments/1215346809333878866/1254779588626878484/Lex_1000x1000.png?ex=66b21b0e&is=66b0c98e&hm=b9100c8fd5675182992f7056dbde50d840d9b9203433ac2ded187d17dd184150&",
+      "https://yt3.googleusercontent.com/MGJNtm1HsKoqXUPGE9vlDYk8TD3cRbWDjMgEXAahOAR5ZFRr34HzNYD3wfJAIA6fZgRa0ypaZuc=s900-c-k-c0x00ffffff-no-rj",
   },
   {
     id: 3,
