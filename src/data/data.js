@@ -51,7 +51,7 @@ const linkData = [
     id: 3,
     link: "https://record.joinaff.com/_Ii3HG-Dmm17pBtHexD7RfGNd7ZgqdRLk/1/?pg=1",
     name: "BETFLARE",
-    description: "100% NON-STICKY első befizetési bónusz 500 €-ig 40x wager, Revoluttal NE fizessetek be mert litván számlára sajnos nem engedik ki a pénzt",
+    description: "100% NON-STICKY első befizetési bónusz 500 €-ig 40x wager, INSTA CO, Revoluttal NE fizessetek be mert litván számlára sajnos nem engedik ki a pénzt",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR85dJlMOtS2xWCtGhGKKUgzAhJYN7uLvE6bA&s",
   },
