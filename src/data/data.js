@@ -35,7 +35,7 @@ const linkData = [
     id: 1,
     link: "https://aff.partners.io/visit/?bta=44853&nci=7610",
     name: "BITCASINO",
-    description: "100%-os első befizetési bónusz 1500 USDT-ig, 15x wager, érvényes kriptovaluták a bónusz használatához: USDT, JPY, BTC, ETH, TRX",
+    description: "100%-os első befizetési bónusz 1500 USDT-ig, min 50 USDT deposit, 15x wager, 5$ maxbet, érvényes kriptovaluták a bónusz használatához: USDT, JPY, BTC, ETH, TRX",
     image:
       "https://indoleads.nyc3.cdn.digitaloceanspaces.com/uploads/offers/logos/15537_605a4fbe7a5f8.png",
   },
