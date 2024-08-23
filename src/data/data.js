@@ -33,7 +33,7 @@ const themeData = {
 const linkData = [
   {
     id: 1,
-    link: "https://aff.partners.io/visit/?bta=44853&nci=7807",
+    link: "https://aff.partners.io/visit/?bta=44853&nci=7610",
     name: "BITCASINO",
     description: "100%-os első befizetési bónusz 1500 USDT-ig, 15x wager, érvényes kriptovaluták a bónusz használatához: USDT, JPY, BTC, ETH, TRX",
     image:
