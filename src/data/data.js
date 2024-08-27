@@ -41,7 +41,7 @@ const linkData = [
   },
   {
     id: 2,
-    link: "https://lex-irrs01.com/c132b9a86",
+    link: "https://kazino-svet.com/wp-content/uploads/2022/11/lexlogo.jpg",
     name: "LEX",
     description: "Promo kód: TAMBA, 50 free spin a Book of Kemet (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert)",
     image:
