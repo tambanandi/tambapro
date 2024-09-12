@@ -41,11 +41,11 @@ const linkData = [
   },
   {
     id: 2,
-    link: "https://lex-irrs01.com/c132b9a86",
-    name: "LEX",
-    description: "Promo kód: TAMBA, 50 free spin a Book of Kemet (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert)",
+    link: "https://weiss-h.click/67464/1852?l=3751",
+    name: "WEISS",
+    description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz 45x wager, de csak a bónusz összegére.",
     image:
-      "https://kazino-svet.com/wp-content/uploads/2022/11/lexlogo.jpg",
+      "https://www.askgamblers.com/uploads/original/casinoreview_logo/11/26/b7/cf33d4ccf32bcf5e21e9cfd90e0521b5df/weiss-casino-logo.png",
   },
   {
     id: 3,
@@ -81,11 +81,11 @@ const linkData = [
   },
     {
     id: 7,
-    link: "https://weiss-h.click/67464/1852?l=3751",
-    name: "WEISS",
-    description: "Saját tokenje van az oldalnak(WEFT), amit lehet holdoni profitért cserébe. 100% NON-STICKY első befizetési bónusz 45x wager, de csak a bónusz összegére.",
+    link: "https://lex-irrs01.com/c132b9a86",
+    name: "LEX",
+    description: "Promo kód: TAMBA, 50 free spin a Book of Kemet (BGaming) sloton. Első befizetési bónusz 150%-os, NON-STICKY, 40x wager csak a bónuszra (a teljes balancera 24x, csak a bonus-money gameken tudod pörgetni a wagert)",
     image:
-      "https://www.askgamblers.com/uploads/original/casinoreview_logo/11/26/b7/cf33d4ccf32bcf5e21e9cfd90e0521b5df/weiss-casino-logo.png",
+      "https://kazino-svet.com/wp-content/uploads/2022/11/lexlogo.jpg",
   },
     {
     id: 8,
