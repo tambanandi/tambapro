@@ -28,8 +28,8 @@ const Header = () => {
             {desc}
           </UserNameText>
           <SocialIcons>
-            <a href="https://discord.gg/tyv3XudrYg"><img src="discord.png" width="50px" height="auto" alt="discordlogo"></img></a>
-            <a href="https://www.instagram.com/tambapro1/"><img src="instagram.png" width="50px" height="auto" alt="instagramlogo"></img></a>
+            <a href="https://discord.gg/pSJxu8paMb"><img src="discord.png" width="50px" height="auto" alt="discordlogo"></img></a>
+            <a href="https://www.instagram.com/tamba.pro/"><img src="instagram.png" width="50px" height="auto" alt="instagramlogo"></img></a>
             <a href="https://www.youtube.com/channel/UCtYOPbd1i3ZLMQICTkYopDg"><img src="youtube.png" width="50px" height="auto" alt="youtubelogo"></img></a>
           </SocialIcons>
         </HeaderWrapper>
